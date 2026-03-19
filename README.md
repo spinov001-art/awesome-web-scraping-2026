@@ -1,0 +1,118 @@
+# Awesome Web Scraping Tools 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> 60+ free web scraping and data collection tools. API-first approach — most never break on redesigns.
+
+All tools are free on [Apify Store](https://apify.com/store) (search **knotless_cadence**).
+
+## Contents
+- [Social Media](#social-media)
+- [SEO & Web Analysis](#seo--web-analysis)
+- [MCP Servers for AI Agents](#mcp-servers)
+- [Developer Tools](#developer-tools)
+- [Reviews & Intelligence](#reviews--intelligence)
+- [Utilities](#utilities)
+
+## Social Media
+
+| Tool | Method | Description |
+|------|--------|-------------|
+| [Reddit Scraper](https://apify.com/knotless_cadence/reddit-scraper-pro) | JSON API | Extract posts, comments, scores from any subreddit |
+| [YouTube Comments](https://apify.com/knotless_cadence/youtube-comments-scraper) | Innertube API | No API key, no quota limits |
+| [YouTube Channel](https://apify.com/knotless_cadence/youtube-channel-scraper) | ytInitialData | Subscribers, latest videos |
+| [YouTube Search](https://apify.com/knotless_cadence/youtube-search-scraper) | ytInitialData | Search results with views |
+| [YouTube Transcript](https://apify.com/knotless_cadence/youtube-transcript-scraper) | Captions XML | Subtitles and captions |
+| [Bluesky Scraper](https://apify.com/knotless_cadence/bluesky-scraper) | AT Protocol | Profiles and posts, no login |
+| [Bluesky Feed Monitor](https://apify.com/knotless_cadence/bluesky-feed-monitor) | AT Protocol | Engagement analytics |
+| [Bluesky Hashtag Tracker](https://apify.com/knotless_cadence/bluesky-hashtag-tracker) | AT Protocol | Trending topics |
+| [Bluesky Profile Batch](https://apify.com/knotless_cadence/bluesky-profile-batch) | AT Protocol | Batch profile lookup |
+| [Hacker News](https://apify.com/knotless_cadence/hacker-news-scraper) | Firebase+Algolia | Stories and comments |
+
+## SEO & Web Analysis
+
+| Tool | Description |
+|------|-------------|
+| [SEO Audit](https://apify.com/knotless_cadence/seo-audit-tool) | 50+ on-page factors, score 0-100 |
+| [Broken Links](https://apify.com/knotless_cadence/broken-links-checker) | Find 404s across entire site |
+| [PageSpeed](https://apify.com/knotless_cadence/pagespeed-insights-scraper) | Google Lighthouse scores |
+| [SSL Checker](https://apify.com/knotless_cadence/ssl-certificate-checker) | Certificate expiry alerts |
+| [Headers Checker](https://apify.com/knotless_cadence/http-headers-checker) | Security score, 10 headers |
+| [Tech Detector](https://apify.com/knotless_cadence/website-tech-stack-detector) | 80+ technologies |
+| [Sitemap Parser](https://apify.com/knotless_cadence/sitemap-scraper) | XML sitemaps to URL list |
+| [Robots.txt](https://apify.com/knotless_cadence/robots-txt-analyzer) | AI bot blocking detection |
+| [Keyword Density](https://apify.com/knotless_cadence/keyword-density-analyzer) | Word frequency analysis |
+| [Meta Tags](https://apify.com/knotless_cadence/meta-tags-extractor) | OG, Twitter, JSON-LD |
+
+## MCP Servers
+
+Tools designed for AI agents via Model Context Protocol.
+
+| Tool | Description |
+|------|-------------|
+| [MCP Web Search](https://apify.com/knotless_cadence/mcp-web-search) | Query 5 sources at once |
+| [MCP SEO Analyzer](https://apify.com/knotless_cadence/mcp-seo-analyzer) | SEO score in one call |
+| [MCP Data Enrichment](https://apify.com/knotless_cadence/mcp-data-enrichment) | WHOIS+DNS+SSL+Tech |
+| [MCP Social Monitor](https://apify.com/knotless_cadence/mcp-social-monitor) | Brand mentions tracker |
+| [MCP Lead Finder](https://apify.com/knotless_cadence/mcp-lead-finder) | Emails and tech stack |
+| [MCP Company Research](https://apify.com/knotless_cadence/mcp-company-researcher) | Full domain intelligence |
+| [MCP Content Analyzer](https://apify.com/knotless_cadence/mcp-content-analyzer) | Readability and keywords |
+
+## Developer Tools
+
+| Tool | Source | Method |
+|------|--------|--------|
+| [Stack Overflow](https://apify.com/knotless_cadence/stackoverflow-scraper) | SO | SE API v2.3 |
+| [GitHub Trending](https://apify.com/knotless_cadence/github-trending-scraper) | GitHub | HTML |
+| [GitHub Profile](https://apify.com/knotless_cadence/github-profile-scraper) | GitHub | API |
+| [GitHub Issues](https://apify.com/knotless_cadence/github-issues-scraper) | GitHub | API |
+| [arXiv Papers](https://apify.com/knotless_cadence/arxiv-paper-scraper) | arXiv | Atom API |
+| [npm Packages](https://apify.com/knotless_cadence/npm-package-scraper) | npm | Registry API |
+| [Wikipedia](https://apify.com/knotless_cadence/wikipedia-scraper) | Wikipedia | MediaWiki API |
+| [Open Library](https://apify.com/knotless_cadence/openlibrary-book-scraper) | Books | API |
+
+## Reviews & Intelligence
+
+| Tool | Description |
+|------|-------------|
+| [Trustpilot](https://apify.com/knotless_cadence/trustpilot-review-scraper) | Reviews via JSON-LD |
+| [Google News](https://apify.com/knotless_cadence/google-news-scraper) | RSS-based, 15 languages |
+| [Market Research](https://apify.com/knotless_cadence/market-research-data-collector) | 7 sources aggregated |
+
+## Utilities
+
+| Tool | Description |
+|------|-------------|
+| [WHOIS Lookup](https://apify.com/knotless_cadence/whois-domain-lookup) | Domain registration + DNS |
+| [IP Geolocation](https://apify.com/knotless_cadence/ip-geolocation-lookup) | Country, ISP, VPN detection |
+| [Exchange Rates](https://apify.com/knotless_cadence/exchange-rate-scraper) | 30+ currencies, ECB |
+| [Weather](https://apify.com/knotless_cadence/weather-data-scraper) | 16-day forecast |
+| [Crypto Prices](https://apify.com/knotless_cadence/crypto-price-scraper) | 10,000+ coins |
+| [Email Extractor](https://apify.com/knotless_cadence/email-extractor-pro) | Emails, phones, socials |
+| [Email Validator](https://apify.com/knotless_cadence/email-validator) | MX check, disposable detect |
+| [RSS Parser](https://apify.com/knotless_cadence/rss-feed-scraper) | Any feed to JSON |
+| [URL Expander](https://apify.com/knotless_cadence/url-expander) | Unshorten links |
+| [Uptime Checker](https://apify.com/knotless_cadence/website-uptime-checker) | Status and response time |
+| [Text Extractor](https://apify.com/knotless_cadence/webpage-text-extractor) | Clean text for RAG |
+| [Screenshot](https://apify.com/knotless_cadence/website-screenshot-scraper) | Capture as PNG/JPEG |
+| [Podcast Scraper](https://apify.com/knotless_cadence/podcast-episode-scraper) | iTunes + RSS |
+| [Quotes](https://apify.com/knotless_cadence/quotes-scraper) | Famous quotes by topic |
+| [Recipes](https://apify.com/knotless_cadence/recipe-food-scraper) | Meals with ingredients |
+| [Country Info](https://apify.com/knotless_cadence/country-info-scraper) | Population, currencies |
+| [Wayback Machine](https://apify.com/knotless_cadence/wayback-machine-scraper) | Website history |
+
+## Design Philosophy
+
+1. **API-first** — 20+ tools use official APIs (Reddit JSON, YouTube Innertube, Wikipedia MediaWiki)
+2. **JSON-LD over CSS** — for review sites, structured data is more reliable
+3. **Free APIs** — CoinGecko, Open-Meteo, ip-api, Frankfurter — all free
+4. **Rate limiting** — built-in delays, never DDoS target sites
+
+## Blog Posts
+
+- [API-First vs CSS Selectors](https://dev.to/__8ef7243a4f/building-reliable-web-scrapers-why-api-first-beats-css-selectors-every-time-3boe)
+- [Bluesky Analytics Dashboard](https://dev.to/__8ef7243a4f/how-to-build-a-bluesky-analytics-dashboard-with-the-at-protocol-api-k8m)
+- [YouTube Hidden API](https://dev.to/__8ef7243a4f/youtube-has-a-hidden-api-that-needs-no-api-key-here-is-how-to-use-it-2n9e)
+- [SEO Audit Suite](https://dev.to/__8ef7243a4f/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
+
+## License
+
+MIT
