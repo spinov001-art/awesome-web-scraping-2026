@@ -1,6 +1,6 @@
 # Awesome Web Scraping Tools 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 60+ free web scraping and data collection tools. API-first approach — most never break on redesigns.
+> 77 free web scraping and data collection tools. API-first approach — most never break on redesigns.
 
 All tools are free on [Apify Store](https://apify.com/store) (search **knotless_cadence**).
 
