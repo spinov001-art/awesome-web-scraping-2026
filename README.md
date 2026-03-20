@@ -4,6 +4,8 @@
 
 All tools are free on [Apify Store](https://apify.com/store) (search **knotless_cadence**).
 
+> **Need data from any website?** I'll scrape it for you — $20 flat rate. Any site, any format (JSON/CSV/Excel). Email **Spinov001@gmail.com** or [see pricing](https://spinov001-art.github.io).
+
 ## Contents
 - [Social Media](#social-media)
 - [SEO & Web Analysis](#seo--web-analysis)
