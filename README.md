@@ -4,7 +4,12 @@
 
 All tools are free on [Apify Store](https://apify.com/store) (search **knotless_cadence**).
 
-> **Need data from any website?** I'll scrape it for you — $20 flat rate. Any site, any format (JSON/CSV/Excel). Email **Spinov001@gmail.com** or [see pricing](https://spinov001-art.github.io).
+> **Need data from any website?** I'll scrape it for you — first 500 records FREE. Custom projects from $49. Email **Spinov001@gmail.com**
+>
+> **Tutorials:**
+> - [I Will Scrape Any Website for You — Free First 500 Records](https://dev.to/__8ef7243a4f/i-will-scrape-any-website-for-you-free-first-500-records-f4c)
+> - [How I Track My Competitors Using Free Web Scrapers](https://dev.to/__8ef7243a4f/how-i-track-my-competitors-using-free-web-scrapers-no-code-required-30n9)
+> - [Automated B2B Lead Generation with n8n + Web Scraping](https://dev.to/__8ef7243a4f/how-to-build-an-automated-b2b-lead-generation-system-with-n8n-and-web-scraping-45kb)
 
 ## Contents
 - [Social Media](#social-media)
