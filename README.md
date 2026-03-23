@@ -7,9 +7,9 @@ All tools are free on [Apify Store](https://apify.com/store) (search **knotless_
 > **Need data from any website?** $20 per dataset, delivered in 24h. [**Pay via Payoneer**](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or email **Spinov001@gmail.com**
 >
 > **Tutorials:**
-> - [I Will Scrape Any Website for You — Free First 500 Records](https://dev.to/__8ef7243a4f/i-will-scrape-any-website-for-you-free-first-500-records-f4c)
-> - [How I Track My Competitors Using Free Web Scrapers](https://dev.to/__8ef7243a4f/how-i-track-my-competitors-using-free-web-scrapers-no-code-required-30n9)
-> - [Automated B2B Lead Generation with n8n + Web Scraping](https://dev.to/__8ef7243a4f/how-to-build-an-automated-b2b-lead-generation-system-with-n8n-and-web-scraping-45kb)
+> - [I Will Scrape Any Website for You — Free First 500 Records](https://dev.to/0012303/i-will-scrape-any-website-for-you-free-first-500-records-f4c)
+> - [How I Track My Competitors Using Free Web Scrapers](https://dev.to/0012303/how-i-track-my-competitors-using-free-web-scrapers-no-code-required-30n9)
+> - [Automated B2B Lead Generation with n8n + Web Scraping](https://dev.to/0012303/how-to-build-an-automated-b2b-lead-generation-system-with-n8n-and-web-scraping-45kb)
 
 ## Contents
 - [Social Media](#social-media)
@@ -115,10 +115,10 @@ Tools designed for AI agents via Model Context Protocol.
 
 ## Blog Posts
 
-- [API-First vs CSS Selectors](https://dev.to/__8ef7243a4f/building-reliable-web-scrapers-why-api-first-beats-css-selectors-every-time-3boe)
-- [Bluesky Analytics Dashboard](https://dev.to/__8ef7243a4f/how-to-build-a-bluesky-analytics-dashboard-with-the-at-protocol-api-k8m)
-- [YouTube Hidden API](https://dev.to/__8ef7243a4f/youtube-has-a-hidden-api-that-needs-no-api-key-here-is-how-to-use-it-2n9e)
-- [SEO Audit Suite](https://dev.to/__8ef7243a4f/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
+- [API-First vs CSS Selectors](https://dev.to/0012303/building-reliable-web-scrapers-why-api-first-beats-css-selectors-every-time-3boe)
+- [Bluesky Analytics Dashboard](https://dev.to/0012303/how-to-build-a-bluesky-analytics-dashboard-with-the-at-protocol-api-k8m)
+- [YouTube Hidden API](https://dev.to/0012303/youtube-has-a-hidden-api-that-needs-no-api-key-here-is-how-to-use-it-2n9e)
+- [SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
 
 ## License
 
