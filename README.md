@@ -10,6 +10,7 @@ All tools are free on [Apify Store](https://apify.com/store) (search **knotless_
 > - [I Will Scrape Any Website for You — Free First 500 Records](https://dev.to/0012303/i-will-scrape-any-website-for-you-free-first-500-records-f4c)
 > - [How I Track My Competitors Using Free Web Scrapers](https://dev.to/0012303/how-i-track-my-competitors-using-free-web-scrapers-no-code-required-30n9)
 > - [Automated B2B Lead Generation with n8n + Web Scraping](https://dev.to/0012303/how-to-build-an-automated-b2b-lead-generation-system-with-n8n-and-web-scraping-45kb)
+> - [YouTube's Secret Innertube API — No API Keys Needed](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
 
 ## Contents
 - [Social Media](#social-media)
