@@ -4,7 +4,7 @@
 
 All tools are free on [Apify Store](https://apify.com/store) (search **knotless_cadence**).
 
-> **Need data from any website?** I'll scrape it for you — first 500 records FREE. Custom projects from $49. Email **Spinov001@gmail.com**
+> **Need data from any website?** $20 per dataset, delivered in 24h. [**Pay via Payoneer**](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or email **Spinov001@gmail.com**
 >
 > **Tutorials:**
 > - [I Will Scrape Any Website for You — Free First 500 Records](https://dev.to/__8ef7243a4f/i-will-scrape-any-website-for-you-free-first-500-records-f4c)
