@@ -198,6 +198,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Web Scraping Proxies Guide](https://github.com/Spinov001-art/web-scraping-proxies-guide) — Free options, rotation patterns, anti-detection
 
+- [Selenium vs Playwright 2026](https://github.com/Spinov001-art/selenium-vs-playwright-2026) — Honest comparison with benchmarks
+
 ## License
 
 MIT
