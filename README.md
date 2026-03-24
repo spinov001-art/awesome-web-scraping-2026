@@ -252,6 +252,12 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Startup Tech Stacks 2026](https://github.com/spinov001-art/startup-tech-stack-2026) — What 200+ YC startups actually use: React, Python, PostgreSQL, Vercel
 
+- [Python Security Tools](https://github.com/spinov001-art/python-security-tools) — 10 Python scripts for security recon using free APIs (Shodan, crt.sh, WHOIS)
+
+- [Awesome Free APIs 2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 300+ free APIs with no key needed, curl examples included
+
+- [Free Developer Tools 2026](https://github.com/spinov001-art/free-developer-tools-2026) — 200+ free tools that replaced paid software
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
