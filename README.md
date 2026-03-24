@@ -122,6 +122,7 @@ Tools designed for AI agents via Model Context Protocol.
 - [YouTube RAG Knowledge Base](https://github.com/spinov001-art/youtube-rag-knowledge-base) — Build AI knowledge base from YouTube videos using Innertube API + RAG
 - [Crossref API: 130M+ Research Papers](https://dev.to/0012303/crossref-api-search-130m-research-papers-programmatically-no-key-36m6)
 - [SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
+- [Price Monitoring System with Free APIs](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6) — Build a competitor price tracker using sitemaps, JSON-LD, and GitHub as a free database
 
 ## License
 
