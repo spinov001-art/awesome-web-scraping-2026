@@ -125,6 +125,32 @@ Tools designed for AI agents via Model Context Protocol.
 - [Price Monitoring System with Free APIs](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6) — Build a competitor price tracker using sitemaps, JSON-LD, and GitHub as a free database
 - [Replace $200/mo AI Pipeline with 50 Lines of Python](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref APIs for ML research monitoring
 
+
+
+## 🤖 ML & AI Data Collection
+
+Tools and techniques for collecting training data for machine learning models.
+
+| Tool | Language | Best For | Free Tier |
+|------|----------|----------|-----------|
+| [Kaggle Datasets](https://www.kaggle.com/datasets) | Python | Pre-built datasets | ✅ Free |
+| [HuggingFace Datasets](https://huggingface.co/datasets) | Python | NLP/CV datasets | ✅ Free |
+| [Common Crawl](https://commoncrawl.org/) | Any | Web-scale text data | ✅ Free |
+| [arXiv API](https://arxiv.org/help/api) | Any | Research papers | ✅ Free |
+| [Crossref API](https://api.crossref.org/) | Any | Academic metadata | ✅ Free |
+| [Semantic Scholar](https://api.semanticscholar.org/) | Any | Citation graphs | ✅ Free |
+
+### Data Collection Patterns for ML
+
+- **Text Classification**: Scrape labeled reviews (Amazon, Trustpilot, G2) → fine-tune DistilBERT
+- **Named Entity Recognition**: Extract structured data from websites → train spaCy models
+- **Sentiment Analysis**: Collect social media posts with sentiment indicators
+- **Question Answering**: Scrape FAQ pages → create QA training pairs
+
+### Related Articles
+- [Fine-Tune a Model on Your Own Data for /bin/bash](https://dev.to/0012303/i-fine-tuned-a-model-on-my-own-data-for-0-here-is-exactly-how-4og0) — Complete guide to free ML model training
+- [Replace $200/mo AI Pipeline with 50 Lines](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref for ML research
+
 ## License
 
 MIT
