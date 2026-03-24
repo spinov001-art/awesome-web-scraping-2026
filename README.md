@@ -160,6 +160,31 @@ Tools and techniques for collecting training data for machine learning models.
 - [Fine-Tune a Model on Your Own Data for /bin/bash](https://dev.to/0012303/i-fine-tuned-a-model-on-my-own-data-for-0-here-is-exactly-how-4og0) — Complete guide to free ML model training
 - [Replace $200/mo AI Pipeline with 50 Lines](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref for ML research
 
+## 📊 API Rate Limits & Free Tiers
+
+Before scraping, know the limits! Quick reference for the most popular APIs:
+
+| API | Rate Limit | Auth Required | Best For |
+|-----|-----------|---------------|----------|
+| GitHub API | 60/hr (unauth), 5000/hr (auth) | Optional | Repo data, stars, issues |
+| Dev.to API | 30/30sec | API key | Articles, tags, profiles |
+| Hacker News | 1/sec recommended | No | Stories, comments, jobs |
+| arXiv API | 1/3sec | No | Research papers |
+| PubMed API | 3/sec (10/sec with key) | Optional | Medical papers |
+| npm Registry | No hard limit | No | Package metadata |
+| RDAP/WHOIS | Varies by registrar | No | Domain lookup |
+| Crossref API | 50/sec (polite pool) | Email in header | Citations, DOIs |
+| Wikipedia API | 200/sec | No | Articles, categories |
+| Have I Been Pwned | 1/1500ms | API key ($3.50/mo) | Breach data |
+
+👉 **Full guide with 50+ APIs:** [API Rate Limits Guide](https://github.com/Spinov001-art/api-rate-limits-guide)
+
+## 🆓 200+ Free APIs (No Key Required)
+
+We maintain a curated list of **200+ APIs that need no authentication**:
+
+👉 **[Free APIs List](https://github.com/Spinov001-art/free-apis-list)** — categorized by domain (finance, weather, geo, government, science, entertainment)
+
 ## 🔗 Related Projects
 
 - [Prompt Engineering Guide 2026](https://github.com/Spinov001-art/prompt-engineering-guide) — Battle-tested prompt patterns with code
