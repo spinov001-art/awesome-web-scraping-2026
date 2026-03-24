@@ -15,6 +15,8 @@ All tools are free on [Apify Store](https://apify.com/store) (search **knotless_
 > - [YouTube's Secret Innertube API — No API Keys Needed](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
 > - [I Built 51 GitHub Repos in 10 Days — What Got Traffic](https://dev.to/0012303/i-built-51-github-repos-in-10-days-here-is-what-actually-got-traffic-np0)
 > - [Build an AI Knowledge Base from YouTube (RAG + Innertube)](https://dev.to/0012303/build-an-ai-knowledge-base-from-youtube-rag-innertube-api-no-api-key-4i4c-temp-slug-2966294)
+> - [OpenAlex API: Search 250M+ Research Papers for Free](https://dev.to/0012303/openalex-api-search-250m-research-papers-for-free-no-api-key-needed-2jj3-temp-slug-1035286)
+> - [npm Security Advisory API — Find Vulnerable Packages](https://dev.to/0012303/npm-has-a-free-security-advisory-api-find-vulnerable-packages-before-they-break-your-app-45d5-temp-slug-920626)
 
 ## Contents
 - [Social Media](#social-media)
@@ -213,6 +215,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 - [Serverless Scraper Deploy](https://github.com/spinov001-art/serverless-scraper-deploy) — Run scrapers on Lambda for $1.23/month
 
 - [GitHub Actions Scrapers](https://github.com/spinov001-art/github-actions-scrapers) — Free CI/CD scraper workflows
+
+- [PyPI Package Analyzer](https://github.com/spinov001-art/pypi-package-analyzer) — Analyze Python packages via PyPI JSON API
 
 ## License
 
