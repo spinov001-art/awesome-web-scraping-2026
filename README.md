@@ -194,6 +194,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 - [API Secret Scanner](https://github.com/Spinov001-art/api-secret-scanner) — Detect leaked API keys in code
 - [AI Market Research Reports](https://github.com/Spinov001-art/ai-market-research-reports) — Market data without hallucinations
 
+- [Web Scraping Error Handling](https://github.com/Spinov001-art/web-scraping-error-handling) — Retry, circuit breaker, dead letter queue patterns
+
 ## License
 
 MIT
