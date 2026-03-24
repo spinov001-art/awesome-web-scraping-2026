@@ -258,6 +258,16 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Free Developer Tools 2026](https://github.com/spinov001-art/free-developer-tools-2026) — 200+ free tools that replaced paid software
 
+- [HN API Toolkit](https://github.com/spinov001-art/hn-api-toolkit) — Hacker News Firebase API scripts: trending topics, job scraping, user analysis
+
+- [Email OSINT Toolkit](https://github.com/spinov001-art/email-osint-toolkit) — Email reputation, breach checking, domain validation using free APIs
+
+- [WHOIS Lookup Tools](https://github.com/spinov001-art/whois-lookup-tools) — RDAP/WHOIS domain intelligence, bulk lookups, expiry monitoring
+
+- [npm Security Scanner](https://github.com/spinov001-art/npm-security-scanner) — Scan npm packages for CVEs, supply chain risks, maintainer changes
+
+- [API Monetization Guide](https://github.com/spinov001-art/api-monetization-guide) — How to make money with APIs: RapidAPI, Apify, pricing models
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
