@@ -234,6 +234,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Reddit Data Analysis Python](https://github.com/spinov001-art/reddit-data-analysis-python) — Analyze Reddit sentiment, trends and keywords without API keys
 
+- [Hacker News Trends Python](https://github.com/spinov001-art/hacker-news-trends-python) — Track HN trends, detect emerging technologies, compare topic popularity
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
