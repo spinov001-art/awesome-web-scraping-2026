@@ -1,6 +1,8 @@
-# Awesome Web Scraping Tools 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web Scraping Tools 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/spinov001-art/awesome-web-scraping-2026?style=social)](https://github.com/spinov001-art/awesome-web-scraping-2026)
 
-> 77 free web scraping and data collection tools. API-first approach — most never break on redesigns.
+> 77+ free web scraping and data collection tools. API-first approach — most never break on redesigns.
+>
+> **⭐ Star this repo** to keep it in your bookmarks — updated weekly with new tools.
 
 All tools are free on [Apify Store](https://apify.com/store) (search **knotless_cadence**).
 
@@ -11,6 +13,8 @@ All tools are free on [Apify Store](https://apify.com/store) (search **knotless_
 > - [How I Track My Competitors Using Free Web Scrapers](https://dev.to/0012303/how-i-track-my-competitors-using-free-web-scrapers-no-code-required-30n9)
 > - [Automated B2B Lead Generation with n8n + Web Scraping](https://dev.to/0012303/how-to-build-an-automated-b2b-lead-generation-system-with-n8n-and-web-scraping-45kb)
 > - [YouTube's Secret Innertube API — No API Keys Needed](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
+> - [I Built 51 GitHub Repos in 10 Days — What Got Traffic](https://dev.to/0012303/i-built-51-github-repos-in-10-days-here-is-what-actually-got-traffic-np0)
+> - [Build an AI Knowledge Base from YouTube (RAG + Innertube)](https://dev.to/0012303/build-an-ai-knowledge-base-from-youtube-rag-innertube-api-no-api-key-4i4c-temp-slug-2966294)
 
 ## Contents
 - [Social Media](#social-media)
