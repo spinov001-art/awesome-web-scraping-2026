@@ -228,6 +228,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Python Supply Chain Scanner](https://github.com/spinov001-art/python-supply-chain-scanner) — Audit npm packages for vulnerabilities using free APIs
 
+- [NASA APIs Python Examples](https://github.com/spinov001-art/nasa-apis-python-examples) — Track asteroids, Mars photos, APOD, satellite imagery, space weather
+
 ## License
 
 MIT
