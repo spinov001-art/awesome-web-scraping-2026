@@ -160,6 +160,15 @@ Tools and techniques for collecting training data for machine learning models.
 - [Fine-Tune a Model on Your Own Data for /bin/bash](https://dev.to/0012303/i-fine-tuned-a-model-on-my-own-data-for-0-here-is-exactly-how-4og0) — Complete guide to free ML model training
 - [Replace $200/mo AI Pipeline with 50 Lines](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref for ML research
 
+## 🔗 Related Projects
+
+- [Prompt Engineering Guide 2026](https://github.com/Spinov001-art/prompt-engineering-guide) — Battle-tested prompt patterns with code
+- [AI Tools Comparison 2026](https://github.com/Spinov001-art/ai-tools-comparison) — Honest benchmarks, real costs
+- [LLM Cost Calculator](https://github.com/Spinov001-art/llm-cost-calculator) — Compare API costs across providers
+- [ML Fine-Tuning Free](https://github.com/Spinov001-art/ml-fine-tuning-free) — Fine-tune models on free GPU
+- [API Secret Scanner](https://github.com/Spinov001-art/api-secret-scanner) — Detect leaked API keys in code
+- [AI Market Research Reports](https://github.com/Spinov001-art/ai-market-research-reports) — Market data without hallucinations
+
 ## License
 
 MIT
