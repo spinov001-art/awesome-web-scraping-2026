@@ -218,6 +218,12 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [PyPI Package Analyzer](https://github.com/spinov001-art/pypi-package-analyzer) — Analyze Python packages via PyPI JSON API
 
+- [GitHub Portfolio Analyzer](https://github.com/spinov001-art/github-portfolio-analyzer) — Analyze any developer's GitHub profile in 30 lines of Python
+
+- [OpenAlex Research Tools](https://github.com/spinov001-art/openalex-research-tools) — Search 250M+ research papers via free API
+
+- [Crossref Research Tools](https://github.com/spinov001-art/crossref-research-tools) — Search 150M+ academic papers programmatically
+
 ## License
 
 MIT
