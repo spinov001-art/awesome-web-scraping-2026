@@ -200,6 +200,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Selenium vs Playwright 2026](https://github.com/Spinov001-art/selenium-vs-playwright-2026) — Honest comparison with benchmarks
 
+- [Web Scraping with Python 2026](https://github.com/Spinov001-art/web-scraping-with-python-2026) — Complete guide from requests to Playwright
+
 ## License
 
 MIT
