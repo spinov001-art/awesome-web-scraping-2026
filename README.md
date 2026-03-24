@@ -202,6 +202,14 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Web Scraping with Python 2026](https://github.com/Spinov001-art/web-scraping-with-python-2026) — Complete guide from requests to Playwright
 
+- [Data Pipeline Monitoring](https://github.com/spinov001-art/data-pipeline-monitoring) — Health checks, alerts, auto-recovery for scrapers
+
+- [Automated Testing Scrapers](https://github.com/spinov001-art/automated-testing-scrapers) — Snapshot, contract, and quality gate testing
+
+- [Serverless Scraper Deploy](https://github.com/spinov001-art/serverless-scraper-deploy) — Run scrapers on Lambda for $1.23/month
+
+- [GitHub Actions Scrapers](https://github.com/spinov001-art/github-actions-scrapers) — Free CI/CD scraper workflows
+
 ## License
 
 MIT
