@@ -214,6 +214,14 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Automated Testing Scrapers](https://github.com/spinov001-art/automated-testing-scrapers) — Snapshot, contract, and quality gate testing
 
+### Security & OSINT Tools
+- [NVD Vulnerability Scanner](https://github.com/spinov001-art/nvd-vulnerability-scanner) — Scan deps against 250K+ CVEs
+- [VirusTotal Scanner](https://github.com/spinov001-art/virustotal-scanner) — 70+ AV engines
+- [Shodan Scanner](https://github.com/spinov001-art/shodan-scanner) — Internet device search
+- [HIBP Password Checker](https://github.com/spinov001-art/hibp-password-checker) — Breach detection
+- [Censys Scanner](https://github.com/spinov001-art/censys-scanner) — Host & certificate search
+- [Awesome Free APIs 2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 100+ free APIs for developers
+
 - [Serverless Scraper Deploy](https://github.com/spinov001-art/serverless-scraper-deploy) — Run scrapers on Lambda for $1.23/month
 
 - [GitHub Actions Scrapers](https://github.com/spinov001-art/github-actions-scrapers) — Free CI/CD scraper workflows
