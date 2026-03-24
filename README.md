@@ -196,6 +196,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Web Scraping Error Handling](https://github.com/Spinov001-art/web-scraping-error-handling) — Retry, circuit breaker, dead letter queue patterns
 
+- [Web Scraping Proxies Guide](https://github.com/Spinov001-art/web-scraping-proxies-guide) — Free options, rotation patterns, anti-detection
+
 ## License
 
 MIT
