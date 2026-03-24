@@ -268,6 +268,14 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [API Monetization Guide](https://github.com/spinov001-art/api-monetization-guide) — How to make money with APIs: RapidAPI, Apify, pricing models
 
+- [PyPI Supply Chain Checker](https://github.com/spinov001-art/pypi-supply-chain-checker) — Detect supply chain attacks in Python packages using free APIs
+
+- [GitHub Advisory Scanner](https://github.com/spinov001-art/github-advisory-scanner) — Scan dependencies against GitHub Advisory Database for known CVEs
+
+- [Dev.to Analytics](https://github.com/spinov001-art/dev-to-analytics) — Analyze your Dev.to article performance with Python
+
+- [Get Paid Writing Technical Articles](https://github.com/spinov001-art/get-paid-writing-technical-articles) — 25+ companies paying $200-1500/article
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
