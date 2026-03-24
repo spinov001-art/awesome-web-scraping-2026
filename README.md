@@ -120,6 +120,7 @@ Tools designed for AI agents via Model Context Protocol.
 - [Bluesky Analytics Dashboard](https://dev.to/0012303/how-to-build-a-bluesky-analytics-dashboard-with-the-at-protocol-api-k8m)
 - [YouTube Hidden API](https://dev.to/0012303/youtube-has-a-hidden-api-that-needs-no-api-key-here-is-how-to-use-it-2n9e)
 - [YouTube RAG Knowledge Base](https://github.com/spinov001-art/youtube-rag-knowledge-base) — Build AI knowledge base from YouTube videos using Innertube API + RAG
+- [Crossref API: 130M+ Research Papers](https://dev.to/0012303/crossref-api-search-130m-research-papers-programmatically-no-key-36m6)
 - [SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
 
 ## License
