@@ -127,6 +127,15 @@ Tools designed for AI agents via Model Context Protocol.
 
 
 
+
+## 🔒 Security & OSINT Tools
+
+| Tool | Type | Best For |
+|------|------|----------|
+| [API Secret Scanner](https://github.com/spinov001-art/api-secret-scanner) | ML-powered | Detect leaked API keys in code (97% accuracy) |
+| [TruffleHog](https://github.com/trufflesecurity/trufflehog) | Open source | Git history secret scanning |
+| [GitLeaks](https://github.com/gitleaks/gitleaks) | Open source | SAST tool for detecting secrets |
+
 ## 🤖 ML & AI Data Collection
 
 Tools and techniques for collecting training data for machine learning models.
