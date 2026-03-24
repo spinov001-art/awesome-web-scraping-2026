@@ -238,6 +238,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [npm Security Audit Tool](https://github.com/spinov001-art/npm-security-audit-tool) — Check npm packages for vulnerabilities before installing, no API key needed
 
+- [MCP Server Tutorial](https://github.com/spinov001-art/mcp-server-tutorial) — Build your own MCP server for AI agents, step-by-step Python tutorial
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
