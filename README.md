@@ -123,6 +123,7 @@ Tools designed for AI agents via Model Context Protocol.
 - [Crossref API: 130M+ Research Papers](https://dev.to/0012303/crossref-api-search-130m-research-papers-programmatically-no-key-36m6)
 - [SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
 - [Price Monitoring System with Free APIs](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6) — Build a competitor price tracker using sitemaps, JSON-LD, and GitHub as a free database
+- [Replace $200/mo AI Pipeline with 50 Lines of Python](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref APIs for ML research monitoring
 
 ## License
 
