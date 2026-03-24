@@ -224,6 +224,10 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Crossref Research Tools](https://github.com/spinov001-art/crossref-research-tools) — Search 150M+ academic papers programmatically
 
+- [Free Security APIs Toolkit](https://github.com/spinov001-art/free-security-apis-toolkit) — VirusTotal, Shodan, WHOIS, HIBP — all free security APIs in one place
+
+- [Python Supply Chain Scanner](https://github.com/spinov001-art/python-supply-chain-scanner) — Audit npm packages for vulnerabilities using free APIs
+
 ## License
 
 MIT
