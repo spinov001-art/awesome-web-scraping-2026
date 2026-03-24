@@ -240,6 +240,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [MCP Server Tutorial](https://github.com/spinov001-art/mcp-server-tutorial) — Build your own MCP server for AI agents, step-by-step Python tutorial
 
+- [Bluesky Data Tools](https://github.com/spinov001-art/bluesky-data-tools) — Extract Bluesky profiles, posts, feeds via AT Protocol, no API key needed
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
