@@ -232,6 +232,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [NASA APIs Python Examples](https://github.com/spinov001-art/nasa-apis-python-examples) — Track asteroids, Mars photos, APOD, satellite imagery, space weather
 
+- [Reddit Data Analysis Python](https://github.com/spinov001-art/reddit-data-analysis-python) — Analyze Reddit sentiment, trends and keywords without API keys
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
