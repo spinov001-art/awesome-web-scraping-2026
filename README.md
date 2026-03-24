@@ -242,6 +242,16 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Bluesky Data Tools](https://github.com/spinov001-art/bluesky-data-tools) — Extract Bluesky profiles, posts, feeds via AT Protocol, no API key needed
 
+- [Claude MCP Cookbook](https://github.com/spinov001-art/claude-mcp-cookbook) — 15 ready-to-use MCP server examples for building AI agents with Claude Desktop
+
+- [AI Agent Starter Kit](https://github.com/spinov001-art/ai-agent-starter-kit) — Build AI agents in 10 minutes with Claude API, no framework needed
+
+- [LLM Data Extraction](https://github.com/spinov001-art/llm-data-extraction) — Extract structured data from any website using LLMs, no CSS selectors needed
+
+- [Web Scraping Jobs 2026](https://github.com/spinov001-art/web-scraping-jobs-2026) — Companies hiring web scraping developers, $50-200/hr
+
+- [Startup Tech Stacks 2026](https://github.com/spinov001-art/startup-tech-stack-2026) — What 200+ YC startups actually use: React, Python, PostgreSQL, Vercel
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
