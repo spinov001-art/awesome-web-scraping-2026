@@ -236,6 +236,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Hacker News Trends Python](https://github.com/spinov001-art/hacker-news-trends-python) — Track HN trends, detect emerging technologies, compare topic popularity
 
+- [npm Security Audit Tool](https://github.com/spinov001-art/npm-security-audit-tool) — Check npm packages for vulnerabilities before installing, no API key needed
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
