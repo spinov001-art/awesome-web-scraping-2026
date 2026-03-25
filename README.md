@@ -350,6 +350,7 @@ All clients use only Python stdlib — no pip install needed.
 |------|------------|
 | [MCP Server Starter Template](https://github.com/spinov001-art/mcp-server-starter-template) | Build AI-powered scrapers with Model Context Protocol |
 | [Awesome MCP Tools 2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) | 130+ MCP servers & tools for AI integration |
+| [Awesome Data Engineering 2026](https://github.com/spinov001-art/awesome-data-engineering-2026) | 150+ data engineering tools: ETL, orchestration, streaming |
 
 ## Need Custom Scraping?
 
