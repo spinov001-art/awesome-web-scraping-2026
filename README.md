@@ -285,6 +285,12 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [Get Paid Writing Technical Articles](https://github.com/spinov001-art/get-paid-writing-technical-articles) — 25+ companies paying $200-1500/article
 
+
+- [Web Scraping Python Examples](https://github.com/spinov001-art/web-scraping-python-examples) — 30+ copy-paste scraping scripts
+- [Hidden JSON APIs](https://github.com/spinov001-art/hidden-json-apis) — Secret endpoints on popular sites
+- [Social Media Data Extractor](https://github.com/spinov001-art/social-media-data-extractor) — Reddit, HN, Bluesky multi-platform
+- [Awesome Research APIs](https://github.com/spinov001-art/awesome-research-apis) — Free academic & scientific APIs
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
