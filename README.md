@@ -1,356 +1,238 @@
-# Awesome Web Scraping Tools 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/spinov001-art/awesome-web-scraping-2026?style=social)](https://github.com/spinov001-art/awesome-web-scraping-2026)
+# Awesome Web Scraping 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/spinov001-art/awesome-web-scraping-2026?style=social)](https://github.com/spinov001-art/awesome-web-scraping-2026)
 
-> 77+ free web scraping and data collection tools. API-first approach — most never break on redesigns.
+> A curated list of web scraping tools, frameworks, libraries, and APIs for 2026. Maintained weekly.
 >
-> **⭐ Star this repo** to keep it in your bookmarks — updated weekly with new tools.
-
-All tools are free on [Apify Store](https://apify.com/store) (search **knotless_cadence**).
-
-> **Need data from any website?** $20 per dataset, delivered in 24h. [**Pay via Payoneer**](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl) or email **Spinov001@gmail.com**
->
-> **Tutorials:**
-> - [I Will Scrape Any Website for You — Free First 500 Records](https://dev.to/0012303/i-will-scrape-any-website-for-you-free-first-500-records-f4c)
-> - [How I Track My Competitors Using Free Web Scrapers](https://dev.to/0012303/how-i-track-my-competitors-using-free-web-scrapers-no-code-required-30n9)
-> - [Automated B2B Lead Generation with n8n + Web Scraping](https://dev.to/0012303/how-to-build-an-automated-b2b-lead-generation-system-with-n8n-and-web-scraping-45kb)
-> - [YouTube's Secret Innertube API — No API Keys Needed](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
-> - [I Built 51 GitHub Repos in 10 Days — What Got Traffic](https://dev.to/0012303/i-built-51-github-repos-in-10-days-here-is-what-actually-got-traffic-np0)
-> - [Build an AI Knowledge Base from YouTube (RAG + Innertube)](https://dev.to/0012303/build-an-ai-knowledge-base-from-youtube-rag-innertube-api-no-api-key-4i4c-temp-slug-2966294)
-> - [OpenAlex API: Search 250M+ Research Papers for Free](https://dev.to/0012303/openalex-api-search-250m-research-papers-for-free-no-api-key-needed-2jj3-temp-slug-1035286)
-> - [npm Security Advisory API — Find Vulnerable Packages](https://dev.to/0012303/npm-has-a-free-security-advisory-api-find-vulnerable-packages-before-they-break-your-app-45d5-temp-slug-920626)
-> - [I Built a Script That Finds Hidden APIs on Any Website](https://dev.to/0012303/i-built-a-script-that-finds-hidden-apis-on-any-website-heres-the-code-2e5j)
-> - [Most Underrated Free APIs You Should Know](https://dev.to/0012303/whats-the-most-underrated-free-api-youve-ever-used-4fbe)
-> - [I Scraped 10,000 Reddit Posts — Best Scraping Strategy 2026](https://dev.to/0012303/i-scraped-10000-reddit-posts-to-find-the-best-web-scraping-strategy-in-2026-58ab)
-> - **📚 [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)** — Python, JS, selectors, anti-detection
+> **⭐ Star this repo** to keep it in your bookmarks — new tools added every week.
 
 ## Contents
-- [Social Media](#social-media)
-- [SEO & Web Analysis](#seo--web-analysis)
-- [MCP Servers for AI Agents](#mcp-servers)
-- [Developer Tools](#developer-tools)
-- [Reviews & Intelligence](#reviews--intelligence)
-- [Utilities](#utilities)
 
-## Social Media
+- [Frameworks & Libraries](#frameworks--libraries)
+  - [Python](#python)
+  - [JavaScript / TypeScript](#javascript--typescript)
+  - [Go](#go)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [PHP](#php)
+- [Browser Automation](#browser-automation)
+- [Headless Browsers](#headless-browsers)
+- [Anti-Detection & Stealth](#anti-detection--stealth)
+- [Proxy Services](#proxy-services)
+- [CAPTCHA Solving](#captcha-solving)
+- [Cloud Scraping Platforms](#cloud-scraping-platforms)
+- [Free APIs (No Scraping Needed)](#free-apis-no-scraping-needed)
+- [Pre-Built Scrapers (Apify Store)](#pre-built-scrapers-apify-store)
+- [Data Parsing & Extraction](#data-parsing--extraction)
+- [Anti-Bot Detection](#anti-bot-detection)
+- [Scraping Infrastructure](#scraping-infrastructure)
+- [Tutorials & Articles](#tutorials--articles)
+- [Related Awesome Lists](#related-awesome-lists)
 
-| Tool | Method | Description |
-|------|--------|-------------|
-| [Reddit Scraper](https://apify.com/knotless_cadence/reddit-scraper-pro) | JSON API | Extract posts, comments, scores from any subreddit |
-| [YouTube Comments](https://apify.com/knotless_cadence/youtube-comments-scraper) | Innertube API | No API key, no quota limits |
-| [YouTube Channel](https://apify.com/knotless_cadence/youtube-channel-scraper) | ytInitialData | Subscribers, latest videos |
-| [YouTube Search](https://apify.com/knotless_cadence/youtube-search-scraper) | ytInitialData | Search results with views |
+---
+
+## Frameworks & Libraries
+
+### Python
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [Scrapy](https://github.com/scrapy/scrapy) | 53k+ | The most popular Python scraping framework. Async, middlewares, pipelines, built-in export. |
+| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | — | HTML/XML parser. Simple API, forgiving of bad markup. Use with `requests`. |
+| [Requests-HTML](https://github.com/psf/requests-html) | 13k+ | Pythonic HTML parsing with JS rendering support via Chromium. |
+| [httpx](https://github.com/encode/httpx) | 13k+ | Modern async HTTP client. HTTP/2 support, better than `requests` for scraping. |
+| [Parsel](https://github.com/scrapy/parsel) | 1k+ | CSS + XPath selector library extracted from Scrapy. |
+| [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) | 4k+ | Stateful web browsing (form submission, cookies) — like a human clicking. |
+| [Grab](https://github.com/lorien/grab) | 2k+ | Web scraping framework. Network requests, DOM parsing, spider. |
+| [Selectolax](https://github.com/rushter/selectolax) | 1k+ | Fast HTML parser (10-20x faster than lxml). C-level speed. |
+| [gazpacho](https://github.com/maxhumber/gazpacho) | 700+ | Simple, modern web scraping. Minimal API surface. |
+| [Crawlee (Python)](https://github.com/apify/crawlee-python) | 5k+ | Apify's scraping framework for Python. BeautifulSoup + Playwright crawlers. |
+
+### JavaScript / TypeScript
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [Crawlee](https://github.com/apify/crawlee) | 15k+ | Full-featured scraping framework by Apify. Cheerio, Playwright, Puppeteer crawlers. |
+| [Cheerio](https://github.com/cheeriojs/cheerio) | 28k+ | Fast jQuery-like HTML parser for Node.js. No browser needed. |
+| [node-crawler](https://github.com/bda-research/node-crawler) | 7k+ | HTTP crawler with jQuery-style selectors, rate limiting, retries. |
+| [x-ray](https://github.com/matthewmueller/x-ray) | 6k+ | Declarative web scraping with schema definitions. |
+| [Apify SDK](https://github.com/apify/apify-sdk-js) | 4k+ | Toolkit for building Apify actors — storage, proxies, queue. |
+
+### Go
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [Colly](https://github.com/gocolly/colly) | 23k+ | Fast and elegant scraping framework for Go. |
+| [goquery](https://github.com/PuerkitoBio/goquery) | 14k+ | jQuery-like HTML selector in Go. |
+| [Ferret](https://github.com/MontFerret/ferret) | 6k+ | Declarative web scraping with FQL query language. |
+| [Geziyor](https://github.com/geziyor/geziyor) | 2k+ | Fast web scraping with concurrent requests and caching. |
+
+### Ruby
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [Nokogiri](https://github.com/sparklemotion/nokogiri) | 6k+ | HTML/XML parser, industry standard for Ruby. |
+| [Mechanize](https://github.com/sparklemotion/mechanize) | 4k+ | Automated web interaction (clicks, forms, cookies). |
+| [Kimurai](https://github.com/vifreefly/kimuraframework) | 1k+ | Modern Ruby web scraping framework. |
+
+### Rust
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [spider](https://github.com/spider-rs/spider) | 3k+ | Fastest web crawler. Written in Rust, 20-100x faster. |
+| [reqwest](https://github.com/seanmonstar/reqwest) | 10k+ | Ergonomic HTTP client for Rust with async support. |
+| [scraper](https://github.com/causal-agent/scraper) | 2k+ | CSS selector-based HTML parser for Rust. |
+
+### PHP
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [Goutte](https://github.com/FriendsOfPHP/Goutte) | 9k+ | Screen scraping and web crawling library for PHP. |
+| [Roach](https://github.com/roach-php/core) | 2k+ | Scrapy-inspired web scraping for PHP. |
+| [Panther](https://github.com/symfony/panther) | 3k+ | Browser testing and scraping with real browsers in PHP. |
+
+## Browser Automation
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [Playwright](https://github.com/microsoft/playwright) | 68k+ | Cross-browser automation by Microsoft. Chromium, Firefox, WebKit. Best anti-detection. |
+| [Puppeteer](https://github.com/puppeteer/puppeteer) | 89k+ | Chrome automation by Google. Mature ecosystem. |
+| [Selenium](https://github.com/SeleniumHQ/selenium) | 31k+ | The OG browser automation. Supports all browsers. |
+| [Cypress](https://github.com/cypress-io/cypress) | 47k+ | Testing-focused but works for scraping interactive SPAs. |
+| [Rod](https://github.com/go-rod/rod) | 5k+ | Playwright/Puppeteer alternative for Go. DevTools Protocol. |
+| [Splash](https://github.com/scrapinghub/splash) | 4k+ | Lightweight browser as a service. JS rendering via HTTP API. |
+
+## Headless Browsers
+
+| Tool | Description |
+|------|-------------|
+| [Browserless](https://github.com/browserless/browserless) | Chrome as a service. Docker-ready. Free self-hosted. |
+| [chrome-headless-shell](https://developer.chrome.com/blog/chrome-headless-shell) | Official Google headless Chrome. Smallest footprint. |
+| [Playwright Docker](https://mcr.microsoft.com/en-us/product/playwright/about) | Official Playwright Docker images with all browsers. |
+
+## Anti-Detection & Stealth
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) | 10k+ | Patched ChromeDriver that passes bot detection. |
+| [puppeteer-extra-stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) | 12k+ | Plugin bundle to evade detection (WebGL, navigator, etc.) |
+| [curl-impersonate](https://github.com/lwthiker/curl-impersonate) | 13k+ | curl that impersonates Chrome/Firefox TLS fingerprint. |
+| [Camoufox](https://github.com/daijro/camoufox) | 5k+ | Anti-detect Firefox browser for scraping. |
+
+## Proxy Services
+
+| Service | Free Tier | Description |
+|---------|-----------|-------------|
+| [Bright Data](https://brightdata.com/) | Trial | 72M+ residential IPs. Enterprise grade. |
+| [Oxylabs](https://oxylabs.io/) | Trial | Residential and datacenter proxies. |
+| [ScraperAPI](https://www.scraperapi.com/) | 1000 free | API that handles proxies and CAPTCHAs. |
+| [Smartproxy](https://smartproxy.com/) | Trial | 65M+ residential proxies. |
+| [IPRoyal](https://iproyal.com/) | — | Budget residential proxies from $1.75/GB. |
+
+## CAPTCHA Solving
+
+| Service | Price | Description |
+|---------|-------|-------------|
+| [2Captcha](https://2captcha.com/) | $1-3/1000 | Human-powered CAPTCHA solving API. |
+| [Anti-Captcha](https://anti-captcha.com/) | $1-2/1000 | reCAPTCHA, hCaptcha, image CAPTCHA. |
+| [CapSolver](https://www.capsolver.com/) | $0.8/1000 | AI-powered CAPTCHA solving. |
+
+## Cloud Scraping Platforms
+
+| Platform | Free Tier | Description |
+|----------|-----------|-------------|
+| [Apify](https://apify.com/) | $5/mo free | Run scrapers in cloud. 2000+ pre-built actors. Proxies included. |
+| [ScrapingBee](https://www.scrapingbee.com/) | 1000 free | API: send URL, get HTML. JS rendering, proxies. |
+| [Firecrawl](https://firecrawl.dev/) | 500 free | Turn websites into LLM-ready markdown. Great for AI. |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | Open source | LLM-friendly web crawler. Markdown extraction. |
+| [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Open source | AI-powered scraping — just describe what you want. |
+| [Browserbase](https://www.browserbase.com/) | Free tier | Headless browser infrastructure. API-based. |
+
+## Free APIs (No Scraping Needed)
+
+Why scrape when you can use official APIs? These require **no API key**:
+
+| API | Data | Rate Limit |
+|-----|------|-----------|
+| [Reddit JSON](https://www.reddit.com/r/python.json) | Posts, comments, subreddits | ~60/min |
+| [Hacker News](https://github.com/HackerNews/API) | Stories, comments, users | ~1/sec |
+| [YouTube Innertube](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil) | Comments, transcripts, channels | No hard limit |
+| [Wikipedia](https://en.wikipedia.org/api/rest_v1/) | Articles, summaries, media | 200/sec |
+| [arXiv](https://arxiv.org/help/api) | 2M+ research papers | 1/3sec |
+| [npm Registry](https://registry.npmjs.org/) | Package metadata | No hard limit |
+| [PyPI JSON](https://pypi.org/pypi/requests/json) | Python package info | No hard limit |
+| [GitHub REST](https://docs.github.com/en/rest) | Repos, users, issues | 60/hr unauth |
+| [Open-Meteo](https://open-meteo.com/) | Weather forecasts | Unlimited |
+| [CoinGecko](https://www.coingecko.com/en/api) | Crypto prices | 30/min |
+| [Crossref](https://api.crossref.org/) | 150M+ academic papers | 50/sec |
+| [RDAP](https://rdap.org/) | Domain WHOIS data | Varies |
+
+> 📚 **[Full list: 300+ Free APIs →](https://github.com/spinov001-art/awesome-free-apis-2026)**
+
+## Pre-Built Scrapers (Apify Store)
+
+Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/store) free tier.
+
+| Scraper | Method | Data |
+|---------|--------|------|
+| [Reddit Scraper](https://apify.com/knotless_cadence/reddit-scraper-pro) | JSON API | Posts, comments, scores |
+| [YouTube Comments](https://apify.com/knotless_cadence/youtube-comments-scraper) | Innertube | Comments without API key |
 | [YouTube Transcript](https://apify.com/knotless_cadence/youtube-transcript-scraper) | Captions XML | Subtitles and captions |
-| [Bluesky Scraper](https://apify.com/knotless_cadence/bluesky-scraper) | AT Protocol | Profiles and posts, no login |
-| [Bluesky Feed Monitor](https://apify.com/knotless_cadence/bluesky-feed-monitor) | AT Protocol | Engagement analytics |
-| [Bluesky Hashtag Tracker](https://apify.com/knotless_cadence/bluesky-hashtag-tracker) | AT Protocol | Trending topics |
-| [Bluesky Profile Batch](https://apify.com/knotless_cadence/bluesky-profile-batch) | AT Protocol | Batch profile lookup |
-| [Hacker News](https://apify.com/knotless_cadence/hacker-news-scraper) | Firebase+Algolia | Stories and comments |
+| [Hacker News](https://apify.com/knotless_cadence/hacker-news-scraper) | Firebase | Stories and comments |
+| [Trustpilot Reviews](https://apify.com/knotless_cadence/trustpilot-review-scraper) | JSON-LD | Reviews via structured data |
+| [Google News](https://apify.com/knotless_cadence/google-news-scraper) | RSS | 15 languages |
+| [SEO Audit](https://apify.com/knotless_cadence/seo-audit-tool) | Multi | 50+ on-page factors |
+| [Email Extractor](https://apify.com/knotless_cadence/email-extractor-pro) | HTML | Emails, phones, socials |
+| [Tech Stack Detector](https://apify.com/knotless_cadence/website-tech-stack-detector) | Headers+JS | 80+ technologies |
+| [Bluesky Scraper](https://apify.com/knotless_cadence/bluesky-scraper) | AT Protocol | Profiles and posts |
 
-## SEO & Web Analysis
+> 🔍 **[All 77 scrapers →](https://apify.com/store?q=knotless_cadence)**
 
-| Tool | Description |
-|------|-------------|
-| [SEO Audit](https://apify.com/knotless_cadence/seo-audit-tool) | 50+ on-page factors, score 0-100 |
-| [Broken Links](https://apify.com/knotless_cadence/broken-links-checker) | Find 404s across entire site |
-| [PageSpeed](https://apify.com/knotless_cadence/pagespeed-insights-scraper) | Google Lighthouse scores |
-| [SSL Checker](https://apify.com/knotless_cadence/ssl-certificate-checker) | Certificate expiry alerts |
-| [Headers Checker](https://apify.com/knotless_cadence/http-headers-checker) | Security score, 10 headers |
-| [Tech Detector](https://apify.com/knotless_cadence/website-tech-stack-detector) | 80+ technologies |
-| [Sitemap Parser](https://apify.com/knotless_cadence/sitemap-scraper) | XML sitemaps to URL list |
-| [Robots.txt](https://apify.com/knotless_cadence/robots-txt-analyzer) | AI bot blocking detection |
-| [Keyword Density](https://apify.com/knotless_cadence/keyword-density-analyzer) | Word frequency analysis |
-| [Meta Tags](https://apify.com/knotless_cadence/meta-tags-extractor) | OG, Twitter, JSON-LD |
+## Data Parsing & Extraction
 
-## MCP Servers
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [lxml](https://github.com/lxml/lxml) | 2k+ | Fastest XML/HTML parser for Python. XPath + XSLT. |
+| [Readability](https://github.com/mozilla/readability) | 8k+ | Firefox's reader mode as a library. Extract article content. |
+| [Trafilatura](https://github.com/adbar/trafilatura) | 3k+ | Extract main text from web pages. Removes boilerplate. |
+| [newspaper3k](https://github.com/codelucas/newspaper) | 14k+ | Article scraping and NLP. Titles, authors, text, images. |
+| [extruct](https://github.com/scrapinghub/extruct) | 800+ | Extract JSON-LD, Microdata, OpenGraph from HTML. |
+| [markdownify](https://github.com/matthewwithanm/python-markdownify) | 1k+ | Convert HTML to Markdown. Great for LLM pipelines. |
 
-Tools designed for AI agents via Model Context Protocol.
+## Anti-Bot Detection
 
-| Tool | Description |
-|------|-------------|
-| [MCP Web Search](https://apify.com/knotless_cadence/mcp-web-search) | Query 5 sources at once |
-| [MCP SEO Analyzer](https://apify.com/knotless_cadence/mcp-seo-analyzer) | SEO score in one call |
-| [MCP Data Enrichment](https://apify.com/knotless_cadence/mcp-data-enrichment) | WHOIS+DNS+SSL+Tech |
-| [MCP Social Monitor](https://apify.com/knotless_cadence/mcp-social-monitor) | Brand mentions tracker |
-| [MCP Lead Finder](https://apify.com/knotless_cadence/mcp-lead-finder) | Emails and tech stack |
-| [MCP Company Research](https://apify.com/knotless_cadence/mcp-company-researcher) | Full domain intelligence |
-| [MCP Content Analyzer](https://apify.com/knotless_cadence/mcp-content-analyzer) | Readability and keywords |
-
-## Developer Tools
-
-| Tool | Source | Method |
-|------|--------|--------|
-| [Stack Overflow](https://apify.com/knotless_cadence/stackoverflow-scraper) | SO | SE API v2.3 |
-| [GitHub Trending](https://apify.com/knotless_cadence/github-trending-scraper) | GitHub | HTML |
-| [GitHub Profile](https://apify.com/knotless_cadence/github-profile-scraper) | GitHub | API |
-| [GitHub Issues](https://apify.com/knotless_cadence/github-issues-scraper) | GitHub | API |
-| [arXiv Papers](https://apify.com/knotless_cadence/arxiv-paper-scraper) | arXiv | Atom API |
-| [npm Packages](https://apify.com/knotless_cadence/npm-package-scraper) | npm | Registry API |
-| [Wikipedia](https://apify.com/knotless_cadence/wikipedia-scraper) | Wikipedia | MediaWiki API |
-| [Open Library](https://apify.com/knotless_cadence/openlibrary-book-scraper) | Books | API |
-
-## Reviews & Intelligence
+Tools to **test** your scraper against detection (for authorized testing only):
 
 | Tool | Description |
 |------|-------------|
-| [Trustpilot](https://apify.com/knotless_cadence/trustpilot-review-scraper) | Reviews via JSON-LD |
-| [Google News](https://apify.com/knotless_cadence/google-news-scraper) | RSS-based, 15 languages |
-| [Market Research](https://apify.com/knotless_cadence/market-research-data-collector) | 7 sources aggregated |
-
-## Utilities
-
-| Tool | Description |
-|------|-------------|
-| [WHOIS Lookup](https://apify.com/knotless_cadence/whois-domain-lookup) | Domain registration + DNS |
-| [IP Geolocation](https://apify.com/knotless_cadence/ip-geolocation-lookup) | Country, ISP, VPN detection |
-| [Exchange Rates](https://apify.com/knotless_cadence/exchange-rate-scraper) | 30+ currencies, ECB |
-| [Weather](https://apify.com/knotless_cadence/weather-data-scraper) | 16-day forecast |
-| [Crypto Prices](https://apify.com/knotless_cadence/crypto-price-scraper) | 10,000+ coins |
-| [Email Extractor](https://apify.com/knotless_cadence/email-extractor-pro) | Emails, phones, socials |
-| [Email Validator](https://apify.com/knotless_cadence/email-validator) | MX check, disposable detect |
-| [RSS Parser](https://apify.com/knotless_cadence/rss-feed-scraper) | Any feed to JSON |
-| [URL Expander](https://apify.com/knotless_cadence/url-expander) | Unshorten links |
-| [Uptime Checker](https://apify.com/knotless_cadence/website-uptime-checker) | Status and response time |
-| [Text Extractor](https://apify.com/knotless_cadence/webpage-text-extractor) | Clean text for RAG |
-| [Screenshot](https://apify.com/knotless_cadence/website-screenshot-scraper) | Capture as PNG/JPEG |
-| [Podcast Scraper](https://apify.com/knotless_cadence/podcast-episode-scraper) | iTunes + RSS |
-| [Quotes](https://apify.com/knotless_cadence/quotes-scraper) | Famous quotes by topic |
-| [Recipes](https://apify.com/knotless_cadence/recipe-food-scraper) | Meals with ingredients |
-| [Country Info](https://apify.com/knotless_cadence/country-info-scraper) | Population, currencies |
-| [Wayback Machine](https://apify.com/knotless_cadence/wayback-machine-scraper) | Website history |
-
-## Design Philosophy
-
-1. **API-first** — 20+ tools use official APIs (Reddit JSON, YouTube Innertube, Wikipedia MediaWiki)
-2. **JSON-LD over CSS** — for review sites, structured data is more reliable
-3. **Free APIs** — CoinGecko, Open-Meteo, ip-api, Frankfurter — all free
-4. **Rate limiting** — built-in delays, never DDoS target sites
-
-## Blog Posts
-
-- [API-First vs CSS Selectors](https://dev.to/0012303/building-reliable-web-scrapers-why-api-first-beats-css-selectors-every-time-3boe)
-- [Bluesky Analytics Dashboard](https://dev.to/0012303/how-to-build-a-bluesky-analytics-dashboard-with-the-at-protocol-api-k8m)
-- [YouTube Hidden API](https://dev.to/0012303/youtube-has-a-hidden-api-that-needs-no-api-key-here-is-how-to-use-it-2n9e)
-- [YouTube RAG Knowledge Base](https://github.com/spinov001-art/youtube-rag-knowledge-base) — Build AI knowledge base from YouTube videos using Innertube API + RAG
-- [Crossref API: 130M+ Research Papers](https://dev.to/0012303/crossref-api-search-130m-research-papers-programmatically-no-key-36m6)
-- [SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
-- [Price Monitoring System with Free APIs](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6) — Build a competitor price tracker using sitemaps, JSON-LD, and GitHub as a free database
-- [Replace $200/mo AI Pipeline with 50 Lines of Python](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref APIs for ML research monitoring
-
-
-
-
-## 🔒 Security & OSINT Tools
-
-| Tool | Type | Best For |
-|------|------|----------|
-| [API Secret Scanner](https://github.com/spinov001-art/api-secret-scanner) | ML-powered | Detect leaked API keys in code (97% accuracy) |
-| [TruffleHog](https://github.com/trufflesecurity/trufflehog) | Open source | Git history secret scanning |
-| [GitLeaks](https://github.com/gitleaks/gitleaks) | Open source | SAST tool for detecting secrets |
-
-## 🤖 ML & AI Data Collection
-
-Tools and techniques for collecting training data for machine learning models.
-
-| Tool | Language | Best For | Free Tier |
-|------|----------|----------|-----------|
-| [Kaggle Datasets](https://www.kaggle.com/datasets) | Python | Pre-built datasets | ✅ Free |
-| [HuggingFace Datasets](https://huggingface.co/datasets) | Python | NLP/CV datasets | ✅ Free |
-| [Common Crawl](https://commoncrawl.org/) | Any | Web-scale text data | ✅ Free |
-| [arXiv API](https://arxiv.org/help/api) | Any | Research papers | ✅ Free |
-| [Crossref API](https://api.crossref.org/) | Any | Academic metadata | ✅ Free |
-| [Semantic Scholar](https://api.semanticscholar.org/) | Any | Citation graphs | ✅ Free |
-
-### Data Collection Patterns for ML
-
-- **Text Classification**: Scrape labeled reviews (Amazon, Trustpilot, G2) → fine-tune DistilBERT
-- **Named Entity Recognition**: Extract structured data from websites → train spaCy models
-- **Sentiment Analysis**: Collect social media posts with sentiment indicators
-- **Question Answering**: Scrape FAQ pages → create QA training pairs
-
-### Related Articles
-- [Fine-Tune a Model on Your Own Data for /bin/bash](https://dev.to/0012303/i-fine-tuned-a-model-on-my-own-data-for-0-here-is-exactly-how-4og0) — Complete guide to free ML model training
-- [Replace $200/mo AI Pipeline with 50 Lines](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref for ML research
-
-## 📊 API Rate Limits & Free Tiers
-
-Before scraping, know the limits! Quick reference for the most popular APIs:
-
-| API | Rate Limit | Auth Required | Best For |
-|-----|-----------|---------------|----------|
-| GitHub API | 60/hr (unauth), 5000/hr (auth) | Optional | Repo data, stars, issues |
-| Dev.to API | 30/30sec | API key | Articles, tags, profiles |
-| Hacker News | 1/sec recommended | No | Stories, comments, jobs |
-| arXiv API | 1/3sec | No | Research papers |
-| PubMed API | 3/sec (10/sec with key) | Optional | Medical papers |
-| npm Registry | No hard limit | No | Package metadata |
-| RDAP/WHOIS | Varies by registrar | No | Domain lookup |
-| Crossref API | 50/sec (polite pool) | Email in header | Citations, DOIs |
-| Wikipedia API | 200/sec | No | Articles, categories |
-| Have I Been Pwned | 1/1500ms | API key ($3.50/mo) | Breach data |
-
-👉 **Full guide with 50+ APIs:** [API Rate Limits Guide](https://github.com/Spinov001-art/api-rate-limits-guide)
-
-## 🆓 200+ Free APIs (No Key Required)
-
-We maintain a curated list of **200+ APIs that need no authentication**:
-
-👉 **[Free APIs List](https://github.com/Spinov001-art/free-apis-list)** — categorized by domain (finance, weather, geo, government, science, entertainment)
-
-## 🔗 Related Projects
-
-- **NEW** [Awesome MCP Servers 2026](https://github.com/spinov001-art/awesome-mcp-servers-2026) — Curated MCP servers for AI agents
-
-- [Prompt Engineering Guide 2026](https://github.com/Spinov001-art/prompt-engineering-guide) — Battle-tested prompt patterns with code
-- [AI Tools Comparison 2026](https://github.com/Spinov001-art/ai-tools-comparison) — Honest benchmarks, real costs
-- [LLM Cost Calculator](https://github.com/Spinov001-art/llm-cost-calculator) — Compare API costs across providers
-- [ML Fine-Tuning Free](https://github.com/Spinov001-art/ml-fine-tuning-free) — Fine-tune models on free GPU
-- [API Secret Scanner](https://github.com/Spinov001-art/api-secret-scanner) — Detect leaked API keys in code
-- [AI Market Research Reports](https://github.com/Spinov001-art/ai-market-research-reports) — Market data without hallucinations
-
-- [Web Scraping Error Handling](https://github.com/Spinov001-art/web-scraping-error-handling) — Retry, circuit breaker, dead letter queue patterns
-
-- [Web Scraping Proxies Guide](https://github.com/Spinov001-art/web-scraping-proxies-guide) — Free options, rotation patterns, anti-detection
-
-- [Selenium vs Playwright 2026](https://github.com/Spinov001-art/selenium-vs-playwright-2026) — Honest comparison with benchmarks
-
-- [Web Scraping with Python 2026](https://github.com/Spinov001-art/web-scraping-with-python-2026) — Complete guide from requests to Playwright
-
-- [Data Pipeline Monitoring](https://github.com/spinov001-art/data-pipeline-monitoring) — Health checks, alerts, auto-recovery for scrapers
-
-- [Automated Testing Scrapers](https://github.com/spinov001-art/automated-testing-scrapers) — Snapshot, contract, and quality gate testing
-
-### Security & OSINT Tools
-- [NVD Vulnerability Scanner](https://github.com/spinov001-art/nvd-vulnerability-scanner) — Scan deps against 250K+ CVEs
-- [VirusTotal Scanner](https://github.com/spinov001-art/virustotal-scanner) — 70+ AV engines
-- [Shodan Scanner](https://github.com/spinov001-art/shodan-scanner) — Internet device search
-- [HIBP Password Checker](https://github.com/spinov001-art/hibp-password-checker) — Breach detection
-- [Censys Scanner](https://github.com/spinov001-art/censys-scanner) — Host & certificate search
-- [Awesome Free APIs 2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 100+ free APIs for developers
-
-- [Serverless Scraper Deploy](https://github.com/spinov001-art/serverless-scraper-deploy) — Run scrapers on Lambda for $1.23/month
-
-- [GitHub Actions Scrapers](https://github.com/spinov001-art/github-actions-scrapers) — Free CI/CD scraper workflows
-
-- [PyPI Package Analyzer](https://github.com/spinov001-art/pypi-package-analyzer) — Analyze Python packages via PyPI JSON API
-
-- [GitHub Portfolio Analyzer](https://github.com/spinov001-art/github-portfolio-analyzer) — Analyze any developer's GitHub profile in 30 lines of Python
-
-- [OpenAlex Research Toolkit](https://github.com/spinov001-art/openalex-research-toolkit) — Search 250M+ research papers via free API
-
-- [PubMed Research Toolkit](https://github.com/spinov001-art/pubmed-research-toolkit) — Search 36M+ biomedical papers via free API
-
-- [arXiv Paper Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) — Search 2M+ preprints, no API key required
-
-- [Awesome Free Research APIs](https://github.com/spinov001-art/awesome-free-research-apis) — 30+ free academic and scientific APIs curated list
-
-- [Crossref Research Tools](https://github.com/spinov001-art/crossref-research-tools) — Search 150M+ academic papers programmatically
-
-- [Free Security APIs Toolkit](https://github.com/spinov001-art/free-security-apis-toolkit) — VirusTotal, Shodan, WHOIS, HIBP — all free security APIs in one place
-
-- [Python Supply Chain Scanner](https://github.com/spinov001-art/python-supply-chain-scanner) — Audit npm packages for vulnerabilities using free APIs
-
-- [NASA APIs Python Examples](https://github.com/spinov001-art/nasa-apis-python-examples) — Track asteroids, Mars photos, APOD, satellite imagery, space weather
-
-- [Reddit Data Analysis Python](https://github.com/spinov001-art/reddit-data-analysis-python) — Analyze Reddit sentiment, trends and keywords without API keys
-- [Reddit Data Toolkit](https://github.com/spinov001-art/reddit-data-toolkit) — Complete Reddit extraction toolkit: scraper + market research pipeline + examples
-
-- [Hacker News Trends Python](https://github.com/spinov001-art/hacker-news-trends-python) — Track HN trends, detect emerging technologies, compare topic popularity
-
-- [npm Security Audit Tool](https://github.com/spinov001-art/npm-security-audit-tool) — Check npm packages for vulnerabilities before installing, no API key needed
-
-- [MCP Server Tutorial](https://github.com/spinov001-art/mcp-server-tutorial) — Build your own MCP server for AI agents, step-by-step Python tutorial
-
-- [Bluesky Data Tools](https://github.com/spinov001-art/bluesky-data-tools) — Extract Bluesky profiles, posts, feeds via AT Protocol, no API key needed
-
-- [Claude MCP Cookbook](https://github.com/spinov001-art/claude-mcp-cookbook) — 15 ready-to-use MCP server examples for building AI agents with Claude Desktop
-
-- [AI Agent Starter Kit](https://github.com/spinov001-art/ai-agent-starter-kit) — Build AI agents in 10 minutes with Claude API, no framework needed
-
-- [LLM Data Extraction](https://github.com/spinov001-art/llm-data-extraction) — Extract structured data from any website using LLMs, no CSS selectors needed
-
-- [Web Scraping Jobs 2026](https://github.com/spinov001-art/web-scraping-jobs-2026) — Companies hiring web scraping developers, $50-200/hr
-
-- [Startup Tech Stacks 2026](https://github.com/spinov001-art/startup-tech-stack-2026) — What 200+ YC startups actually use: React, Python, PostgreSQL, Vercel
-
-- [Python Security Tools](https://github.com/spinov001-art/python-security-tools) — 10 Python scripts for security recon using free APIs (Shodan, crt.sh, WHOIS)
-
-- [Awesome Free APIs 2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 300+ free APIs with no key needed, curl examples included
-
-- [Free Developer Tools 2026](https://github.com/spinov001-art/free-developer-tools-2026) — 200+ free tools that replaced paid software
-
-- [HN API Toolkit](https://github.com/spinov001-art/hn-api-toolkit) — Hacker News Firebase API scripts: trending topics, job scraping, user analysis
-
-- [Email OSINT Toolkit](https://github.com/spinov001-art/email-osint-toolkit) — Email reputation, breach checking, domain validation using free APIs
-
-- [WHOIS Lookup Tools](https://github.com/spinov001-art/whois-lookup-tools) — RDAP/WHOIS domain intelligence, bulk lookups, expiry monitoring
-
-- [npm Security Scanner](https://github.com/spinov001-art/npm-security-scanner) — Scan npm packages for CVEs, supply chain risks, maintainer changes
-
-- [API Monetization Guide](https://github.com/spinov001-art/api-monetization-guide) — How to make money with APIs: RapidAPI, Apify, pricing models
-
-- [PyPI Supply Chain Checker](https://github.com/spinov001-art/pypi-supply-chain-checker) — Detect supply chain attacks in Python packages using free APIs
-
-- [GitHub Advisory Scanner](https://github.com/spinov001-art/github-advisory-scanner) — Scan dependencies against GitHub Advisory Database for known CVEs
-
-- [Dev.to Analytics](https://github.com/spinov001-art/dev-to-analytics) — Analyze your Dev.to article performance with Python
-
-- [Get Paid Writing Technical Articles](https://github.com/spinov001-art/get-paid-writing-technical-articles) — 25+ companies paying $200-1500/article
-
-
-- [Web Scraping Python Examples](https://github.com/spinov001-art/web-scraping-python-examples) — 30+ copy-paste scraping scripts
-- [Hidden JSON APIs](https://github.com/spinov001-art/hidden-json-apis) — Secret endpoints on popular sites
-- [Social Media Data Extractor](https://github.com/spinov001-art/social-media-data-extractor) — Reddit, HN, Bluesky multi-platform
-- [Awesome Free Research APIs](https://github.com/spinov001-art/awesome-free-research-apis) — 30+ free academic & scientific APIs
-
-### 🔬 Research API Toolkits
-
-- [Crossref Research Toolkit](https://github.com/spinov001-art/crossref-research-toolkit) — Search 150M+ scholarly articles by DOI, author, journal
-- [OpenAlex Research Toolkit](https://github.com/spinov001-art/openalex-research-toolkit) — Search 250M+ academic papers with citation data
-- [PubMed Research Toolkit](https://github.com/spinov001-art/pubmed-research-toolkit) — Search 36M+ medical & biomedical papers
-- [arXiv Paper Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) — Search 2M+ preprints in physics, CS, math
-
-## 🐍 Python API Clients (Zero Dependencies)
-
-Standalone Python scripts that access popular APIs without any API key or signup:
-
-| Client | API | What You Get |
-|--------|-----|-------------|
-| [python-reddit-api](https://github.com/spinov001-art/python-reddit-api) | Reddit JSON | Posts, comments, subreddit stats, search |
-| [python-hn-api](https://github.com/spinov001-art/python-hn-api) | HN Firebase + Algolia | Stories, comments, users, full-text search |
-| [build-weather-bot](https://github.com/spinov001-art/build-weather-bot) | Open-Meteo | Weather forecasts + Telegram alerts |
-| [build-price-tracker](https://github.com/spinov001-art/build-price-tracker) | CoinGecko | Crypto prices, trending coins + alerts |
-
-| [build-news-aggregator](https://github.com/spinov001-art/build-news-aggregator) | HN + Reddit + Dev.to | Combined tech news feed, sorted by score |
-
-| [python-email-validator](https://github.com/spinov001-art/python-email-validator) | DNS/WHOIS | Email format, MX records, disposable check |
-| [python-domain-checker](https://github.com/spinov001-art/python-domain-checker) | WHOIS | Domain availability across 10 TLDs |
-
-| [python-github-api](https://github.com/spinov001-art/python-github-api) | GitHub REST API | Search repos, users, trending |
-| [python-wikipedia-api](https://github.com/spinov001-art/python-wikipedia-api) | Wikipedia REST API | Search, summaries, on-this-day |
-
-All clients use only Python stdlib — no pip install needed.
-
-## Developer Utilities (Zero Deps)
-
-| Tool | What it does |
-|------|-------------|
-| [python-backup-tool](https://github.com/spinov001-art/python-backup-tool) | Incremental backups with compression and rotation |
-| [python-dns-lookup](https://github.com/spinov001-art/python-dns-lookup) | DNS resolver — A, MX, NS, TXT, reverse, bulk |
-| [python-hash-checker](https://github.com/spinov001-art/python-hash-checker) | File integrity, verification, duplicate finder |
-| [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) | 50+ modern CLI tools for developers |
-| [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) | 120+ DevOps, CI/CD, IaC, monitoring tools |
-| [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) | 120+ API development, testing, gateway tools |
-| [awesome-python-devtools-2026](https://github.com/spinov001-art/awesome-python-devtools-2026) | 80+ Python developer tools |
-| [python-http-client](https://github.com/spinov001-art/python-http-client) | Zero-dependency HTTP client for Python |
-| [python-regex-tester](https://github.com/spinov001-art/python-regex-tester) | Interactive regex tester with pattern library |
-| [python-markdown-tool](https://github.com/spinov001-art/python-markdown-tool) | Markdown → HTML converter and link validator |
-
-## AI-Powered Scraping (MCP)
-
-| Tool | Description |
-|------|------------|
-| [MCP Server Starter Template](https://github.com/spinov001-art/mcp-server-starter-template) | Build AI-powered scrapers with Model Context Protocol |
-| [Awesome MCP Tools 2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) | 130+ MCP servers & tools for AI integration |
-| [Awesome Data Engineering 2026](https://github.com/spinov001-art/awesome-data-engineering-2026) | 150+ data engineering tools: ETL, orchestration, streaming |
+| [CreepJS](https://abrahamjuliot.github.io/creepjs/) | Browser fingerprint test — see what sites see about you. |
+| [Fingerprint.com](https://fingerprint.com/) | Browser fingerprinting service. |
+
+## Scraping Infrastructure
+
+| Tool | Stars | Description |
+|------|-------|-------------|
+| [Scrapyd](https://github.com/scrapy/scrapyd) | 3k+ | Deploy and run Scrapy spiders as a service. |
+| [Gerapy](https://github.com/Gerapy/Gerapy) | 3k+ | Distributed Scrapy management with Django UI. |
+| [Portia](https://github.com/scrapinghub/portia) | 9k+ | Visual scraping tool — point and click, no code. |
+| [Scrapy-Redis](https://github.com/rmax/scrapy-redis) | 5k+ | Distributed Scrapy with Redis. Scale to millions of pages. |
+
+## Tutorials & Articles
+
+- [I Built a Script That Finds Hidden APIs on Any Website](https://dev.to/0012303/i-built-a-script-that-finds-hidden-apis-on-any-website-heres-the-code-2e5j)
+- [API-First vs CSS Selectors — Why APIs Win](https://dev.to/0012303/building-reliable-web-scrapers-why-api-first-beats-css-selectors-every-time-3boe)
+- [YouTube's Secret Innertube API](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
+- [I Scraped 10,000 Reddit Posts — Best Strategy 2026](https://dev.to/0012303/i-scraped-10000-reddit-posts-to-find-the-best-web-scraping-strategy-in-2026-58ab)
+- [Free 9-Tool SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
+- [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)
+
+## Related Awesome Lists
+
+- [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) — The original awesome web scraping list
+- [awesome-crawler](https://github.com/BruceDone/awesome-crawler) — Web crawler tools by language
+- [awesome-free-apis-2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 300+ free APIs, no key needed
+- [awesome-data-engineering-2026](https://github.com/spinov001-art/awesome-data-engineering-2026) — 150+ data engineering tools
+- [awesome-mcp-servers-2026](https://github.com/spinov001-art/awesome-mcp-servers-2026) — MCP servers for AI agents
+
+---
 
 ## Need Custom Scraping?
 
