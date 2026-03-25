@@ -329,6 +329,15 @@ Standalone Python scripts that access popular APIs without any API key or signup
 
 All clients use only Python stdlib — no pip install needed.
 
+## Developer Utilities (Zero Deps)
+
+| Tool | What it does |
+|------|-------------|
+| [python-backup-tool](https://github.com/spinov001-art/python-backup-tool) | Incremental backups with compression and rotation |
+| [python-dns-lookup](https://github.com/spinov001-art/python-dns-lookup) | DNS resolver — A, MX, NS, TXT, reverse, bulk |
+| [python-hash-checker](https://github.com/spinov001-art/python-hash-checker) | File integrity, verification, duplicate finder |
+| [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) | 50+ modern CLI tools for developers |
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
