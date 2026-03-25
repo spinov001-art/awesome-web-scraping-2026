@@ -185,6 +185,20 @@
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Open source | AI-powered scraping — just describe what you want. |
 | [Browserbase](https://www.browserbase.com/) | Free tier | Headless browser infrastructure. API-based. |
 
+## E-Commerce & Price Monitoring
+
+| Tool | Target | Description |
+|------|--------|-------------|
+| [Amazon Product API](https://webservices.amazon.com/) | Amazon | Official Product Advertising API. Requires affiliate account. |
+| [Keepa](https://keepa.com/) | Amazon | Price history tracking. API available ($20/mo). |
+| [CamelCamelCamel](https://camelcamelcamel.com/) | Amazon | Free price tracker, browser extension. |
+| [PriceAPI](https://www.priceapi.com/) | Multi | Product data from 1000+ retailers. Enterprise. |
+| [Diffbot](https://www.diffbot.com/) | Any | AI-powered product extraction. Free tier. |
+| [Amazon Scraper (Apify)](https://apify.com/junglee/Amazon-crawler) | Amazon | 750K+ users. Product data, reviews, prices. |
+| [Walmart Scraper (Apify)](https://apify.com/epctex/walmart-scraper) | Walmart | Products, prices, reviews. |
+
+> **Tip:** For price monitoring, combine scraping with cron jobs (GitHub Actions = free) and alert via email/Slack when prices change.
+
 ## Free APIs (No Scraping Needed)
 
 Why scrape when you can use official APIs? These require **no API key**:
