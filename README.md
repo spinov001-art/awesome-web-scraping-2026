@@ -321,6 +321,9 @@ Standalone Python scripts that access popular APIs without any API key or signup
 
 | [build-news-aggregator](https://github.com/spinov001-art/build-news-aggregator) | HN + Reddit + Dev.to | Combined tech news feed, sorted by score |
 
+| [python-email-validator](https://github.com/spinov001-art/python-email-validator) | DNS/WHOIS | Email format, MX records, disposable check |
+| [python-domain-checker](https://github.com/spinov001-art/python-domain-checker) | WHOIS | Domain availability across 10 TLDs |
+
 All clients use only Python stdlib — no pip install needed.
 
 ## Need Custom Scraping?
