@@ -371,6 +371,10 @@ Before scraping, know the rules:
 - [How I Run Web Scrapers for Free Using GitHub Actions](https://dev.to/0012303/how-i-run-web-scrapers-for-free-using-github-actions-complete-setup-2e30)
 - [The Perfect Docker Setup for Web Scraping](https://dev.to/0012303/the-perfect-docker-setup-for-web-scraping-i-spent-months-getting-this-right-52a2)
 - [Why I Store All My Scraped Data in SQLite](https://dev.to/0012303/why-i-store-all-my-scraped-data-in-sqlite-not-json-not-csv-56pa)
+- [10 Google Dorking Tricks That Will Change How You Research Online](https://dev.to/0012303/10-google-dorking-tricks-that-will-change-how-you-research-online-2eo2)
+- [I Automated My Entire Job Search With Python](https://dev.to/0012303/i-automated-my-entire-job-search-with-python-here-is-exactly-how-2330)
+- [Web Scraping Checklist — 21 Steps Before You Scrape](https://dev.to/0012303/the-web-scraping-checklist-i-wish-i-had-when-i-started-21-steps-before-you-scrape-anything-3hh3)
+- [I Built 77 Web Scrapers on Apify — Here's What Nobody Tells You](https://dev.to/0012303/i-built-77-web-scrapers-on-apify-heres-what-nobody-tells-you-1a6e)
 
 ## Related Awesome Lists
 
