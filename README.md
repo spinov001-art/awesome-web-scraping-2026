@@ -382,6 +382,10 @@ Before scraping, know the rules:
 
 ---
 
+## Starter Template
+
+**[python-web-scraping-starter](https://github.com/spinov001-art/python-web-scraping-starter)** — Clone → install → scrape in 5 minutes. API-first with Playwright fallback.
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
