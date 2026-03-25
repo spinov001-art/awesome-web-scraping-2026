@@ -29,6 +29,45 @@
 
 ---
 
+## Quick Comparison: Which Tool Should You Use?
+
+| Need | Best Tool | Why |
+|------|-----------|-----|
+| Simple HTML parsing | **BeautifulSoup** | Easiest API, handles broken HTML |
+| Large-scale crawling | **Scrapy** | Built-in queuing, middlewares, pipelines |
+| JavaScript-rendered pages | **Playwright** | Best browser automation, anti-detection |
+| Full scraping framework (JS) | **Crawlee** | Handles browser + HTTP, auto-scaling |
+| Speed over everything | **spider (Rust)** | 20-100x faster than Python alternatives |
+| No-code scraping | **Apify** or **Portia** | Visual tools, no programming needed |
+| LLM-ready data | **Firecrawl** or **Crawl4AI** | Output as markdown for AI pipelines |
+| Avoid scraping entirely | **Free APIs** | Structured JSON, no parsing, no breakage |
+
+### Python Framework Comparison
+
+| Feature | Scrapy | BeautifulSoup | Requests-HTML | Crawlee (Python) |
+|---------|--------|---------------|---------------|------------------|
+| Async | ✅ Twisted | ❌ | ✅ | ✅ asyncio |
+| JS Rendering | Plugin | ❌ | ✅ built-in | ✅ Playwright |
+| Rate Limiting | ✅ built-in | Manual | Manual | ✅ built-in |
+| Export (JSON/CSV) | ✅ built-in | Manual | Manual | ✅ built-in |
+| Learning Curve | Medium | Low | Low | Medium |
+| Best For | Production crawlers | Quick scripts | Simple pages + JS | Modern async scraping |
+
+### Browser Automation Comparison
+
+| Feature | Playwright | Puppeteer | Selenium |
+|---------|------------|-----------|----------|
+| Languages | Python, JS, Java, C# | JS only | All major |
+| Browsers | Chromium, Firefox, WebKit | Chrome only | All |
+| Speed | Fast | Fast | Slower |
+| Anti-Detection | Best | Good (with stealth) | Poor |
+| Mobile Testing | ✅ | Limited | ✅ |
+| Auto-Wait | ✅ | Manual | Manual |
+| Community | Growing fast | Large | Largest |
+| Best For | Modern scraping | Chrome-only projects | Legacy systems |
+
+---
+
 ## Frameworks & Libraries
 
 ### Python
