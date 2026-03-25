@@ -89,6 +89,10 @@
 | [Selectolax](https://github.com/rushter/selectolax) | 1k+ | Fast HTML parser (10-20x faster than lxml). C-level speed. |
 | [gazpacho](https://github.com/maxhumber/gazpacho) | 700+ | Simple, modern web scraping. Minimal API surface. |
 | [Crawlee (Python)](https://github.com/apify/crawlee-python) | 5k+ | Apify's scraping framework for Python. BeautifulSoup + Playwright crawlers. |
+| [curl_cffi](https://github.com/yifeikong/curl_cffi) | 3k+ | Python bindings for curl-impersonate. TLS fingerprint impersonation. |
+| [botasaurus](https://github.com/omkarcloud/botasaurus) | 4k+ | All-in-one scraping framework: browser, anti-detect, caching, parallel. |
+| [Playwright for Python](https://github.com/microsoft/playwright-python) | 12k+ | Official Playwright Python bindings. Cross-browser automation. |
+| [aiohttp](https://github.com/aio-libs/aiohttp) | 15k+ | Async HTTP client/server. Great for high-concurrency scraping. |
 
 ### JavaScript / TypeScript
 
@@ -99,6 +103,8 @@
 | [node-crawler](https://github.com/bda-research/node-crawler) | 7k+ | HTTP crawler with jQuery-style selectors, rate limiting, retries. |
 | [x-ray](https://github.com/matthewmueller/x-ray) | 6k+ | Declarative web scraping with schema definitions. |
 | [Apify SDK](https://github.com/apify/apify-sdk-js) | 4k+ | Toolkit for building Apify actors — storage, proxies, queue. |
+| [got-scraping](https://github.com/apify/got-scraping) | 600+ | HTTP client with anti-fingerprinting. Built-in header generation. |
+| [Axios](https://github.com/axios/axios) | 106k+ | Promise-based HTTP client. Great for API-based scraping. |
 
 ### Go
 
@@ -108,6 +114,7 @@
 | [goquery](https://github.com/PuerkitoBio/goquery) | 14k+ | jQuery-like HTML selector in Go. |
 | [Ferret](https://github.com/MontFerret/ferret) | 6k+ | Declarative web scraping with FQL query language. |
 | [Geziyor](https://github.com/geziyor/geziyor) | 2k+ | Fast web scraping with concurrent requests and caching. |
+| [chromedp](https://github.com/chromedp/chromedp) | 11k+ | Chrome DevTools Protocol client for Go. Headless browser control. |
 
 ### Ruby
 
@@ -160,6 +167,9 @@
 | [puppeteer-extra-stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) | 12k+ | Plugin bundle to evade detection (WebGL, navigator, etc.) |
 | [curl-impersonate](https://github.com/lwthiker/curl-impersonate) | 13k+ | curl that impersonates Chrome/Firefox TLS fingerprint. |
 | [Camoufox](https://github.com/daijro/camoufox) | 5k+ | Anti-detect Firefox browser for scraping. |
+| [playwright-stealth](https://github.com/nickvdp/playwright-stealth) | 1k+ | Stealth plugin for Playwright Python. Evade fingerprinting. |
+| [nodriver](https://github.com/nickvdp/nodriver) | 3k+ | Next-gen undetected browser automation. Successor to undetected-chromedriver. |
+| [Rebrowser](https://github.com/nickvdp/rebrowser-patches) | 1k+ | Patches for Playwright/Puppeteer to fix automation leaks. |
 
 ## Proxy Services
 
@@ -189,6 +199,8 @@
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | Open source | LLM-friendly web crawler. Markdown extraction. |
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Open source | AI-powered scraping — just describe what you want. |
 | [Browserbase](https://www.browserbase.com/) | Free tier | Headless browser infrastructure. API-based. |
+| [Zyte (Scrapy Cloud)](https://www.zyte.com/) | Free tier | Cloud-based Scrapy deployment + smart proxy. By Scrapy creators. |
+| [Agenty](https://www.agenty.com/) | Free tier | No-code cloud scraping. Point-and-click extractors. |
 
 ## AI-Powered Scraping (2026 Trend)
 
@@ -293,6 +305,10 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 | [newspaper3k](https://github.com/codelucas/newspaper) | 14k+ | Article scraping and NLP. Titles, authors, text, images. |
 | [extruct](https://github.com/scrapinghub/extruct) | 800+ | Extract JSON-LD, Microdata, OpenGraph from HTML. |
 | [markdownify](https://github.com/matthewwithanm/python-markdownify) | 1k+ | Convert HTML to Markdown. Great for LLM pipelines. |
+| [html2text](https://github.com/Alir3z4/html2text) | 2k+ | Convert HTML to clean Markdown. Handles complex layouts. |
+| [jusText](https://github.com/miso-belica/jusText) | 500+ | Remove boilerplate from HTML. Extract just article text. |
+| [dateparser](https://github.com/scrapinghub/dateparser) | 2k+ | Parse dates in any format/language. Essential for scraping. |
+| [price-parser](https://github.com/scrapinghub/price-parser) | 300+ | Extract price and currency from any string. By Zyte. |
 
 ## Anti-Bot Detection
 
@@ -302,6 +318,9 @@ Tools to **test** your scraper against detection (for authorized testing only):
 |------|-------------|
 | [CreepJS](https://abrahamjuliot.github.io/creepjs/) | Browser fingerprint test — see what sites see about you. |
 | [Fingerprint.com](https://fingerprint.com/) | Browser fingerprinting service. |
+| [BotD](https://github.com/nickvdp/botd) | 2k+ | Open-source bot detection library by Fingerprint. |
+| [Sannysoft Test](https://bot.sannysoft.com/) | Check what automation signals your browser leaks. |
+| [Incolumitas Bot Test](https://bot.incolumitas.com/) | Advanced bot detection test — TLS, JS, canvas fingerprint. |
 
 ## Scraping Infrastructure
 
@@ -311,6 +330,9 @@ Tools to **test** your scraper against detection (for authorized testing only):
 | [Gerapy](https://github.com/Gerapy/Gerapy) | 3k+ | Distributed Scrapy management with Django UI. |
 | [Portia](https://github.com/scrapinghub/portia) | 9k+ | Visual scraping tool — point and click, no code. |
 | [Scrapy-Redis](https://github.com/rmax/scrapy-redis) | 5k+ | Distributed Scrapy with Redis. Scale to millions of pages. |
+| [Frontera](https://github.com/scrapinghub/frontera) | 1k+ | Large-scale web crawling frontier. URL management and scheduling. |
+| [Scrapy-Splash](https://github.com/scrapy-plugins/scrapy-splash) | 2k+ | Scrapy + Splash integration for JS rendering in pipelines. |
+| [Scrapy-Playwright](https://github.com/scrapy-plugins/scrapy-playwright) | 1k+ | Playwright integration for Scrapy. Modern JS rendering. |
 
 ## Legal & Ethics
 
@@ -343,6 +365,7 @@ Before scraping, know the rules:
 - [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)
 - [Scrapy vs Playwright vs Crawlee — Which to Use?](https://dev.to/0012303/scrapy-vs-playwright-vs-crawlee-which-web-scraping-tool-should-you-use-in-2026-1eik)
 - [The State of Web Scraping in 2026](https://dev.to/0012303/the-state-of-web-scraping-in-2026-what-changed-and-what-works-21di)
+- [5 Free Web Scraping Tools That Replace Bright Data](https://dev.to/0012303/5-free-web-scraping-tools-that-replace-bright-data-with-real-code-4h38)
 
 ## Related Awesome Lists
 
