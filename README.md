@@ -324,6 +324,9 @@ Standalone Python scripts that access popular APIs without any API key or signup
 | [python-email-validator](https://github.com/spinov001-art/python-email-validator) | DNS/WHOIS | Email format, MX records, disposable check |
 | [python-domain-checker](https://github.com/spinov001-art/python-domain-checker) | WHOIS | Domain availability across 10 TLDs |
 
+| [python-github-api](https://github.com/spinov001-art/python-github-api) | GitHub REST API | Search repos, users, trending |
+| [python-wikipedia-api](https://github.com/spinov001-art/python-wikipedia-api) | Wikipedia REST API | Search, summaries, on-this-day |
+
 All clients use only Python stdlib — no pip install needed.
 
 ## Need Custom Scraping?
