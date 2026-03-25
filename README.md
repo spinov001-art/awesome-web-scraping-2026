@@ -317,6 +317,8 @@ Standalone Python scripts that access popular APIs without any API key or signup
 | [build-weather-bot](https://github.com/spinov001-art/build-weather-bot) | Open-Meteo | Weather forecasts + Telegram alerts |
 | [build-price-tracker](https://github.com/spinov001-art/build-price-tracker) | CoinGecko | Crypto prices, trending coins + alerts |
 
+| [build-news-aggregator](https://github.com/spinov001-art/build-news-aggregator) | HN + Reddit + Dev.to | Combined tech news feed, sorted by score |
+
 All clients use only Python stdlib — no pip install needed.
 
 ## Need Custom Scraping?
