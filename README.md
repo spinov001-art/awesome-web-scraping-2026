@@ -230,7 +230,13 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 - [GitHub Portfolio Analyzer](https://github.com/spinov001-art/github-portfolio-analyzer) — Analyze any developer's GitHub profile in 30 lines of Python
 
-- [OpenAlex Research Tools](https://github.com/spinov001-art/openalex-research-tools) — Search 250M+ research papers via free API
+- [OpenAlex Research Toolkit](https://github.com/spinov001-art/openalex-research-toolkit) — Search 250M+ research papers via free API
+
+- [PubMed Research Toolkit](https://github.com/spinov001-art/pubmed-research-toolkit) — Search 36M+ biomedical papers via free API
+
+- [arXiv Paper Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) — Search 2M+ preprints, no API key required
+
+- [Awesome Free Research APIs](https://github.com/spinov001-art/awesome-free-research-apis) — 30+ free academic and scientific APIs curated list
 
 - [Crossref Research Tools](https://github.com/spinov001-art/crossref-research-tools) — Search 150M+ academic papers programmatically
 
@@ -289,7 +295,7 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 - [Web Scraping Python Examples](https://github.com/spinov001-art/web-scraping-python-examples) — 30+ copy-paste scraping scripts
 - [Hidden JSON APIs](https://github.com/spinov001-art/hidden-json-apis) — Secret endpoints on popular sites
 - [Social Media Data Extractor](https://github.com/spinov001-art/social-media-data-extractor) — Reddit, HN, Bluesky multi-platform
-- [Awesome Research APIs](https://github.com/spinov001-art/awesome-research-apis) — Free academic & scientific APIs
+- [Awesome Free Research APIs](https://github.com/spinov001-art/awesome-free-research-apis) — 30+ free academic & scientific APIs
 
 ## Need Custom Scraping?
 
