@@ -239,6 +239,30 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 
 > 🔍 **[All 77 scrapers →](https://apify.com/store?q=knotless_cadence)**
 
+## Job Boards & Company Data
+
+| Tool | Target | Description |
+|------|--------|-------------|
+| [LinkedIn Scraper (Apify)](https://apify.com/anchor/linkedin-scraper) | LinkedIn | Profiles, companies, jobs. Requires login. |
+| [Indeed Scraper (Apify)](https://apify.com/misceres/indeed-scraper) | Indeed | Job listings, salary data, company reviews. |
+| [Glassdoor Scraper (Apify)](https://apify.com/web.harvester/glassdoor-reviews-scraper) | Glassdoor | Reviews, salaries, interviews. |
+| [Google Maps Scraper (Apify)](https://apify.com/compass/crawler-google-places) | Google Maps | Business data, reviews, phone, hours. 500K+ users. |
+| [Crunchbase API](https://data.crunchbase.com/) | Crunchbase | Startup data, funding, investors. Paid. |
+| [Hunter.io](https://hunter.io/) | Any domain | Find email addresses. 25 free/mo. |
+| [Apollo.io](https://www.apollo.io/) | Any company | Contact data, org charts. Free tier. |
+
+## Government & Public Data
+
+| Source | Data | Access |
+|--------|------|--------|
+| [data.gov](https://catalog.data.gov/) | US government datasets | Free API + bulk download |
+| [EU Open Data](https://data.europa.eu/) | EU datasets | Free API |
+| [SEC EDGAR](https://www.sec.gov/edgar/) | Company filings | Free API |
+| [USPTO](https://developer.uspto.gov/) | Patent data | Free API |
+| [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API) | Geographic data | Free API |
+| [World Bank](https://data.worldbank.org/) | Economic indicators | Free API |
+| [FRED](https://fred.stlouisfed.org/docs/api/) | Economic data | Free API key |
+
 ## Data Parsing & Extraction
 
 | Tool | Stars | Description |
