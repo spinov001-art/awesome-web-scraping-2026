@@ -306,6 +306,19 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 - [PubMed Research Toolkit](https://github.com/spinov001-art/pubmed-research-toolkit) — Search 36M+ medical & biomedical papers
 - [arXiv Paper Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) — Search 2M+ preprints in physics, CS, math
 
+## 🐍 Python API Clients (Zero Dependencies)
+
+Standalone Python scripts that access popular APIs without any API key or signup:
+
+| Client | API | What You Get |
+|--------|-----|-------------|
+| [python-reddit-api](https://github.com/spinov001-art/python-reddit-api) | Reddit JSON | Posts, comments, subreddit stats, search |
+| [python-hn-api](https://github.com/spinov001-art/python-hn-api) | HN Firebase + Algolia | Stories, comments, users, full-text search |
+| [build-weather-bot](https://github.com/spinov001-art/build-weather-bot) | Open-Meteo | Weather forecasts + Telegram alerts |
+| [build-price-tracker](https://github.com/spinov001-art/build-price-tracker) | CoinGecko | Crypto prices, trending coins + alerts |
+
+All clients use only Python stdlib — no pip install needed.
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
