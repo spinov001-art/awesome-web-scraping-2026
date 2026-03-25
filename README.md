@@ -292,6 +292,27 @@ Tools to **test** your scraper against detection (for authorized testing only):
 | [Portia](https://github.com/scrapinghub/portia) | 9k+ | Visual scraping tool — point and click, no code. |
 | [Scrapy-Redis](https://github.com/rmax/scrapy-redis) | 5k+ | Distributed Scrapy with Redis. Scale to millions of pages. |
 
+## Legal & Ethics
+
+Before scraping, know the rules:
+
+| Topic | Key Points |
+|-------|------------|
+| **robots.txt** | Always check. Respect `Disallow` directives. Not legally binding but shows good faith. |
+| **Rate Limiting** | Never DDoS. Add delays between requests. 1 req/sec is a safe default. |
+| **Terms of Service** | Some sites explicitly prohibit scraping. Violating ToS can have legal consequences. |
+| **Personal Data (GDPR)** | Scraping personal data in the EU requires a lawful basis. Be careful with names, emails, etc. |
+| **CFAA (US)** | The Computer Fraud and Abuse Act can apply. Key case: *hiQ v. LinkedIn* (public data is generally OK). |
+| **Copyright** | Scraped content may be copyrighted. Extraction is usually OK; republishing is not. |
+| **API Terms** | Even free APIs have terms. Read them — especially about commercial use. |
+
+**Rule of thumb:** If the data is publicly available, not behind a login, and you respect rate limits — you're probably fine. When in doubt, use the official API.
+
+**Resources:**
+- [Web Scraping Is Legal (EFF)](https://www.eff.org/deeplinks/2022/04/victory-ninth-circuit-confirms-scraping-publicly-available-data-not-cfaa-violation)
+- [GDPR and Web Scraping](https://gdpr.eu/)
+- [robots.txt Standard](https://www.robotstxt.org/)
+
 ## Tutorials & Articles
 
 - [I Built a Script That Finds Hidden APIs on Any Website](https://dev.to/0012303/i-built-a-script-that-finds-hidden-apis-on-any-website-heres-the-code-2e5j)
@@ -300,6 +321,8 @@ Tools to **test** your scraper against detection (for authorized testing only):
 - [I Scraped 10,000 Reddit Posts — Best Strategy 2026](https://dev.to/0012303/i-scraped-10000-reddit-posts-to-find-the-best-web-scraping-strategy-in-2026-58ab)
 - [Free 9-Tool SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
 - [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)
+- [Scrapy vs Playwright vs Crawlee — Which to Use?](https://dev.to/0012303/scrapy-vs-playwright-vs-crawlee-which-web-scraping-tool-should-you-use-in-2026-1eik)
+- [The State of Web Scraping in 2026](https://dev.to/0012303/the-state-of-web-scraping-in-2026-what-changed-and-what-works-21di)
 
 ## Related Awesome Lists
 
