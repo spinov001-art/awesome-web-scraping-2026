@@ -344,6 +344,13 @@ All clients use only Python stdlib — no pip install needed.
 | [python-regex-tester](https://github.com/spinov001-art/python-regex-tester) | Interactive regex tester with pattern library |
 | [python-markdown-tool](https://github.com/spinov001-art/python-markdown-tool) | Markdown → HTML converter and link validator |
 
+## AI-Powered Scraping (MCP)
+
+| Tool | Description |
+|------|------------|
+| [MCP Server Starter Template](https://github.com/spinov001-art/mcp-server-starter-template) | Build AI-powered scrapers with Model Context Protocol |
+| [Awesome MCP Tools 2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) | 130+ MCP servers & tools for AI integration |
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
