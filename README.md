@@ -197,6 +197,8 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 
 ## 🔗 Related Projects
 
+- **NEW** [Awesome MCP Servers 2026](https://github.com/spinov001-art/awesome-mcp-servers-2026) — Curated MCP servers for AI agents
+
 - [Prompt Engineering Guide 2026](https://github.com/Spinov001-art/prompt-engineering-guide) — Battle-tested prompt patterns with code
 - [AI Tools Comparison 2026](https://github.com/Spinov001-art/ai-tools-comparison) — Honest benchmarks, real costs
 - [LLM Cost Calculator](https://github.com/Spinov001-art/llm-cost-calculator) — Compare API costs across providers
