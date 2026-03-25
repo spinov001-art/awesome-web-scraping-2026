@@ -366,6 +366,11 @@ Before scraping, know the rules:
 - [Scrapy vs Playwright vs Crawlee — Which to Use?](https://dev.to/0012303/scrapy-vs-playwright-vs-crawlee-which-web-scraping-tool-should-you-use-in-2026-1eik)
 - [The State of Web Scraping in 2026](https://dev.to/0012303/the-state-of-web-scraping-in-2026-what-changed-and-what-works-21di)
 - [5 Free Web Scraping Tools That Replace Bright Data](https://dev.to/0012303/5-free-web-scraping-tools-that-replace-bright-data-with-real-code-4h38)
+- [7 Python Libraries That Make Web Scraping Stupidly Easy](https://dev.to/0012303/7-python-libraries-that-make-web-scraping-stupidly-easy-2026-35mk)
+- [5 Hidden APIs E-Commerce Sites Don't Want You to Know](https://dev.to/0012303/5-hidden-apis-e-commerce-sites-dont-want-you-to-know-about-3p4i)
+- [How I Run Web Scrapers for Free Using GitHub Actions](https://dev.to/0012303/how-i-run-web-scrapers-for-free-using-github-actions-complete-setup-2e30)
+- [The Perfect Docker Setup for Web Scraping](https://dev.to/0012303/the-perfect-docker-setup-for-web-scraping-i-spent-months-getting-this-right-52a2)
+- [Why I Store All My Scraped Data in SQLite](https://dev.to/0012303/why-i-store-all-my-scraped-data-in-sqlite-not-json-not-csv-56pa)
 
 ## Related Awesome Lists
 
