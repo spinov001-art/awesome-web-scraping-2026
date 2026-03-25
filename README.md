@@ -19,6 +19,8 @@ All tools are free on [Apify Store](https://apify.com/store) (search **knotless_
 > - [npm Security Advisory API — Find Vulnerable Packages](https://dev.to/0012303/npm-has-a-free-security-advisory-api-find-vulnerable-packages-before-they-break-your-app-45d5-temp-slug-920626)
 > - [I Built a Script That Finds Hidden APIs on Any Website](https://dev.to/0012303/i-built-a-script-that-finds-hidden-apis-on-any-website-heres-the-code-2e5j)
 > - [Most Underrated Free APIs You Should Know](https://dev.to/0012303/whats-the-most-underrated-free-api-youve-ever-used-4fbe)
+> - [I Scraped 10,000 Reddit Posts — Best Scraping Strategy 2026](https://dev.to/0012303/i-scraped-10000-reddit-posts-to-find-the-best-web-scraping-strategy-in-2026-58ab)
+> - **📚 [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)** — Python, JS, selectors, anti-detection
 
 ## Contents
 - [Social Media](#social-media)
