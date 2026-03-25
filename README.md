@@ -337,6 +337,12 @@ All clients use only Python stdlib — no pip install needed.
 | [python-dns-lookup](https://github.com/spinov001-art/python-dns-lookup) | DNS resolver — A, MX, NS, TXT, reverse, bulk |
 | [python-hash-checker](https://github.com/spinov001-art/python-hash-checker) | File integrity, verification, duplicate finder |
 | [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) | 50+ modern CLI tools for developers |
+| [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) | 120+ DevOps, CI/CD, IaC, monitoring tools |
+| [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) | 120+ API development, testing, gateway tools |
+| [awesome-python-devtools-2026](https://github.com/spinov001-art/awesome-python-devtools-2026) | 80+ Python developer tools |
+| [python-http-client](https://github.com/spinov001-art/python-http-client) | Zero-dependency HTTP client for Python |
+| [python-regex-tester](https://github.com/spinov001-art/python-regex-tester) | Interactive regex tester with pattern library |
+| [python-markdown-tool](https://github.com/spinov001-art/python-markdown-tool) | Markdown → HTML converter and link validator |
 
 ## Need Custom Scraping?
 
