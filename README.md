@@ -297,6 +297,13 @@ We maintain a curated list of **200+ APIs that need no authentication**:
 - [Social Media Data Extractor](https://github.com/spinov001-art/social-media-data-extractor) — Reddit, HN, Bluesky multi-platform
 - [Awesome Free Research APIs](https://github.com/spinov001-art/awesome-free-research-apis) — 30+ free academic & scientific APIs
 
+### 🔬 Research API Toolkits
+
+- [Crossref Research Toolkit](https://github.com/spinov001-art/crossref-research-toolkit) — Search 150M+ scholarly articles by DOI, author, journal
+- [OpenAlex Research Toolkit](https://github.com/spinov001-art/openalex-research-toolkit) — Search 250M+ academic papers with citation data
+- [PubMed Research Toolkit](https://github.com/spinov001-art/pubmed-research-toolkit) — Search 36M+ medical & biomedical papers
+- [arXiv Paper Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) — Search 2M+ preprints in physics, CS, math
+
 ## Need Custom Scraping?
 
 I build data extraction tools for any website — APIs, scrapers, pipelines.
