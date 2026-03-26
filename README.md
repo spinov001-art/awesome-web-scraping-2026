@@ -239,6 +239,10 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 
 ## Free APIs (No Scraping Needed)
 
+- **[IP-API](https://dev.to/0012303/ip-api-has-a-free-api-get-geolocation-for-any-ip-address-without-an-api-key-mmg)** — IP geolocation (country, city, ISP) — no key needed
+- **[Open-Meteo](https://dev.to/0012303/open-meteo-has-a-free-api-get-weather-data-for-any-location-without-an-api-key-2028)** — Weather forecasts and historical data — no key needed
+- **[ExchangeRate-API](https://dev.to/0012303/exchangerate-api-has-a-free-api-get-currency-conversion-rates-without-an-api-key-2c66)** — Currency conversion rates for 160+ currencies — no key needed
+
 Why scrape when you can use official APIs? These require **no API key**:
 
 | API | Data | Rate Limit |
@@ -403,13 +407,13 @@ Before scraping, know the rules:
 
 ## Need Custom Scraping?
 
-I've built 77+ production scrapers. I can extract data from **any website** — e-commerce, real estate, job boards, social media — with anti-detection, proxy rotation, and structured JSON/CSV output.
+I've built 88+ production scrapers. I can extract data from **any website** — e-commerce, real estate, job boards, social media — with anti-detection, proxy rotation, and structured JSON/CSV output.
 
 **What you get:** Working scraper in 24-48h, hosted on Apify (free tier available), with monitoring and auto-retry.
 
 📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a quote in 2 hours.
 
-🔧 **[Browse 77+ ready-made scrapers →](https://apify.com/spinov001)** — Reddit, HN, Google, Amazon, and more.
+🔧 **[Browse 88+ ready-made scrapers →](https://apify.com/spinov001)** — Reddit, HN, Google, Amazon, and more.
 
 ## License
 
