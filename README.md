@@ -379,6 +379,8 @@ Before scraping, know the rules:
 - [I Automated My Entire Job Search With Python](https://dev.to/0012303/i-automated-my-entire-job-search-with-python-here-is-exactly-how-2330)
 - [Web Scraping Checklist — 21 Steps Before You Scrape](https://dev.to/0012303/the-web-scraping-checklist-i-wish-i-had-when-i-started-21-steps-before-you-scrape-anything-3hh3)
 - [I Built 77 Web Scrapers on Apify — Here's What Nobody Tells You](https://dev.to/0012303/i-built-77-web-scrapers-on-apify-heres-what-nobody-tells-you-1a6e)
+- [Hetzner Gives You 4x More Server for the Same Price — And Has a Full API](https://dev.to/0012303/hetzner-gives-you-4x-more-server-for-the-same-price-and-has-a-full-api-14g4) — Best servers for running scrapers
+- [Neon Has a Free Tier — Serverless Postgres With Branching](https://dev.to/0012303/neon-has-a-free-tier-serverless-postgres-with-branching-512-mb-storage-and-no-credit-card-i3e) — Store scraped data in free Postgres
 
 ## Related Awesome Lists
 
