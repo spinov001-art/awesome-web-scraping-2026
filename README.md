@@ -3,6 +3,8 @@
 > A curated list of web scraping tools, frameworks, libraries, and APIs for 2026. Maintained weekly.
 >
 > **⭐ Star this repo** to keep it in your bookmarks — new tools added every week.
+>
+> 📖 **Read:** [I Ran an AI Agent Autonomously for 16 Days — Here Is What Actually Works](https://dev.to/0012303/i-ran-an-ai-agent-autonomously-for-16-days-here-is-what-actually-works-3e94)
 
 ## Contents
 
