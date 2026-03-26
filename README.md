@@ -6,6 +6,14 @@
 >
 > 📖 **Read:** [I Ran an AI Agent Autonomously for 16 Days — Here Is What Actually Works](https://dev.to/0012303/i-ran-an-ai-agent-autonomously-for-16-days-here-is-what-actually-works-3e94)
 
+---
+
+> 🚀 **Skip the scraping** — I've built **88+ ready-made scrapers** for Reddit, HN, Google, LinkedIn, Amazon, and more.
+> [Browse Apify actors →](https://apify.com/knotless_cadence) | Need something custom? Email **[spinov001@gmail.com](mailto:spinov001@gmail.com)**
+
+---
+
+
 ## Contents
 
 - [Frameworks & Libraries](#frameworks--libraries)
