@@ -36,7 +36,7 @@
 
 ---
 
-> 💡 **Need data from ANY website?** I build custom scrapers and data pipelines — fast, reliable, anti-detection built in. **[Get a quote →](mailto:Spinov001@gmail.com)** or check out my **[ready-made scrapers on Apify Store](https://apify.com/spinov001)**.
+> 💡 **Need data from ANY website?** I build custom scrapers and data pipelines — fast, reliable, anti-detection built in. **[Get a quote →](mailto:Spinov001@gmail.com)** or check out my **[ready-made scrapers on Apify Store](https://apify.com/knotless_cadence)**.
 
 ---
 
@@ -413,7 +413,7 @@ I've built 88+ production scrapers. I can extract data from **any website** — 
 
 📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a quote in 2 hours.
 
-🔧 **[Browse 88+ ready-made scrapers →](https://apify.com/spinov001)** — Reddit, HN, Google, Amazon, and more.
+🔧 **[Browse 88+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more.
 
 ## License
 
