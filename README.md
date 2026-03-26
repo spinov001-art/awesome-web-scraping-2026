@@ -34,6 +34,10 @@
 
 ---
 
+> 💡 **Need data from ANY website?** I build custom scrapers and data pipelines — fast, reliable, anti-detection built in. **[Get a quote →](mailto:Spinov001@gmail.com)** or check out my **[ready-made scrapers on Apify Store](https://apify.com/spinov001)**.
+
+---
+
 ## Quick Comparison: Which Tool Should You Use?
 
 | Need | Best Tool | Why |
@@ -395,9 +399,13 @@ Before scraping, know the rules:
 
 ## Need Custom Scraping?
 
-I build data extraction tools for any website — APIs, scrapers, pipelines.
+I've built 77+ production scrapers. I can extract data from **any website** — e-commerce, real estate, job boards, social media — with anti-detection, proxy rotation, and structured JSON/CSV output.
 
-**[Hire me →](https://spinov001-art.github.io)** | Email: Spinov001@gmail.com
+**What you get:** Working scraper in 24-48h, hosted on Apify (free tier available), with monitoring and auto-retry.
+
+📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a quote in 2 hours.
+
+🔧 **[Browse 77+ ready-made scrapers →](https://apify.com/spinov001)** — Reddit, HN, Google, Amazon, and more.
 
 ## License
 
