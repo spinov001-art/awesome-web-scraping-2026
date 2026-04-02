@@ -421,6 +421,8 @@ I've built 88+ production scrapers. I can extract data from **any website** — 
 
 📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a **free quote within 2 hours**. Reply before Friday for priority delivery slot.
 
+💳 **[Pay securely via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** — custom scraper from $20. Flat-rate pricing, no hourly surprises.
+
 🔧 **[Browse 88+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
 
 ## License
