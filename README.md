@@ -419,9 +419,9 @@ I've built 88+ production scrapers. I can extract data from **any website** — 
 
 **What you get:** Working scraper in 24-48h, hosted on Apify (free tier available), with monitoring and auto-retry.
 
-📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a quote in 2 hours.
+📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a **free quote within 2 hours**. Reply before Friday for priority delivery slot.
 
-🔧 **[Browse 88+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more.
+🔧 **[Browse 88+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
 
 ## License
 
