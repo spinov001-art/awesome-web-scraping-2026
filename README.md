@@ -4,7 +4,7 @@
 >
 > **⭐ Star this repo** to keep it in your bookmarks — new tools added every week.
 >
-> 📖 **Read:** [I Ran an AI Agent Autonomously for 16 Days — Here Is What Actually Works](https://dev.to/0012303/i-ran-an-ai-agent-autonomously-for-16-days-here-is-what-actually-works-3e94)
+> 📖 **Need a custom scraper?** I build production-grade data pipelines — [Email me](mailto:spinov001@gmail.com) for a free quote.
 
 ---
 
