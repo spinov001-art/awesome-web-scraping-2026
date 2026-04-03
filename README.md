@@ -194,6 +194,10 @@
 | [ScraperAPI](https://www.scraperapi.com/) | 1000 free | API that handles proxies and CAPTCHAs. |
 | [Smartproxy](https://smartproxy.com/) | Trial | 65M+ residential proxies. |
 | [IPRoyal](https://iproyal.com/) | — | Budget residential proxies from $1.75/GB. |
+| [Proxy-Seller](https://proxy-seller.com/) | — | Residential, datacenter & ISP proxies. Geo-targeting 195+ countries. |
+| [NetNut](https://netnut.io/) | Trial | 85M+ residential IPs. Rotating and static options. |
+| [SOAX](https://soax.com/) | Trial | 190M+ residential and mobile proxies. 99.95% uptime. |
+| [Webshare](https://webshare.io/) | 10 free | Datacenter and residential proxies. API access. |
 
 ## CAPTCHA Solving
 
