@@ -247,9 +247,9 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 
 ## Free APIs (No Scraping Needed)
 
-- **[IP-API](https://dev.to/0012303/ip-api-has-a-free-api-get-geolocation-for-any-ip-address-without-an-api-key-mmg)** — IP geolocation (country, city, ISP) — no key needed
-- **[Open-Meteo](https://dev.to/0012303/open-meteo-has-a-free-api-get-weather-data-for-any-location-without-an-api-key-2028)** — Weather forecasts and historical data — no key needed
-- **[ExchangeRate-API](https://dev.to/0012303/exchangerate-api-has-a-free-api-get-currency-conversion-rates-without-an-api-key-2c66)** — Currency conversion rates for 160+ currencies — no key needed
+- **[IP-API](https://ip-api.com/)** — IP geolocation (country, city, ISP) — no key needed
+- **[Open-Meteo](https://open-meteo.com/)** — Weather forecasts and historical data — no key needed
+- **[ExchangeRate-API](https://www.exchangerate-api.com/)** — Currency conversion rates for 160+ currencies — no key needed
 
 Why scrape when you can use official APIs? These require **no API key**:
 
@@ -257,7 +257,7 @@ Why scrape when you can use official APIs? These require **no API key**:
 |-----|------|-----------|
 | [Reddit JSON](https://www.reddit.com/r/python.json) | Posts, comments, subreddits | ~60/min |
 | [Hacker News](https://github.com/HackerNews/API) | Stories, comments, users | ~1/sec |
-| [YouTube Innertube](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil) | Comments, transcripts, channels | No hard limit |
+| [YouTube Innertube](https://github.com/spinov001-art/youtube-innertube-toolkit) | Comments, transcripts, channels | No hard limit |
 | [Wikipedia](https://en.wikipedia.org/api/rest_v1/) | Articles, summaries, media | 200/sec |
 | [arXiv](https://arxiv.org/help/api) | 2M+ research papers | 1/3sec |
 | [npm Registry](https://registry.npmjs.org/) | Package metadata | No hard limit |
@@ -375,26 +375,16 @@ Before scraping, know the rules:
 
 ## Tutorials & Articles
 
-- [I Built a Script That Finds Hidden APIs on Any Website](https://dev.to/0012303/i-built-a-script-that-finds-hidden-apis-on-any-website-heres-the-code-2e5j)
-- [API-First vs CSS Selectors — Why APIs Win](https://dev.to/0012303/building-reliable-web-scrapers-why-api-first-beats-css-selectors-every-time-3boe)
-- [YouTube's Secret Innertube API](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
-- [I Scraped 10,000 Reddit Posts — Best Strategy 2026](https://dev.to/0012303/i-scraped-10000-reddit-posts-to-find-the-best-web-scraping-strategy-in-2026-58ab)
-- [Free 9-Tool SEO Audit Suite](https://dev.to/0012303/free-9-tool-seo-audit-suite-no-login-no-api-keys-structured-json-657)
 - [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)
-- [Scrapy vs Playwright vs Crawlee — Which to Use?](https://dev.to/0012303/scrapy-vs-playwright-vs-crawlee-which-web-scraping-tool-should-you-use-in-2026-1eik)
-- [The State of Web Scraping in 2026](https://dev.to/0012303/the-state-of-web-scraping-in-2026-what-changed-and-what-works-21di)
-- [5 Free Web Scraping Tools That Replace Bright Data](https://dev.to/0012303/5-free-web-scraping-tools-that-replace-bright-data-with-real-code-4h38)
-- [7 Python Libraries That Make Web Scraping Stupidly Easy](https://dev.to/0012303/7-python-libraries-that-make-web-scraping-stupidly-easy-2026-35mk)
-- [5 Hidden APIs E-Commerce Sites Don't Want You to Know](https://dev.to/0012303/5-hidden-apis-e-commerce-sites-dont-want-you-to-know-about-3p4i)
-- [How I Run Web Scrapers for Free Using GitHub Actions](https://dev.to/0012303/how-i-run-web-scrapers-for-free-using-github-actions-complete-setup-2e30)
-- [The Perfect Docker Setup for Web Scraping](https://dev.to/0012303/the-perfect-docker-setup-for-web-scraping-i-spent-months-getting-this-right-52a2)
-- [Why I Store All My Scraped Data in SQLite](https://dev.to/0012303/why-i-store-all-my-scraped-data-in-sqlite-not-json-not-csv-56pa)
-- [10 Google Dorking Tricks That Will Change How You Research Online](https://dev.to/0012303/10-google-dorking-tricks-that-will-change-how-you-research-online-2eo2)
-- [I Automated My Entire Job Search With Python](https://dev.to/0012303/i-automated-my-entire-job-search-with-python-here-is-exactly-how-2330)
-- [Web Scraping Checklist — 21 Steps Before You Scrape](https://dev.to/0012303/the-web-scraping-checklist-i-wish-i-had-when-i-started-21-steps-before-you-scrape-anything-3hh3)
-- [I Built 77 Web Scrapers on Apify — Here's What Nobody Tells You](https://dev.to/0012303/i-built-77-web-scrapers-on-apify-heres-what-nobody-tells-you-1a6e)
-- [Hetzner Gives You 4x More Server for the Same Price — And Has a Full API](https://dev.to/0012303/hetzner-gives-you-4x-more-server-for-the-same-price-and-has-a-full-api-14g4) — Best servers for running scrapers
-- [Neon Has a Free Tier — Serverless Postgres With Branching](https://dev.to/0012303/neon-has-a-free-tier-serverless-postgres-with-branching-512-mb-storage-and-no-credit-card-i3e) — Store scraped data in free Postgres
+- [Scrapy Documentation](https://docs.scrapy.org/en/latest/) — The most popular Python scraping framework
+- [Playwright Web Scraping Guide](https://playwright.dev/docs/api/class-page) — Browser automation for dynamic sites
+- [Crawlee Getting Started](https://crawlee.dev/docs/introduction) — TypeScript/Node.js scraping framework
+- [Web Scraping with Python (Real Python)](https://realpython.com/python-web-scraping-practical-introduction/) — Comprehensive beginner guide
+- [Hacker News API](https://github.com/HackerNews/API) — Official Firebase-based API
+- [YouTube Innertube Toolkit](https://github.com/spinov001-art/youtube-innertube-toolkit) — Extract YouTube data without API keys
+- [GitHub Actions for Scrapers](https://docs.github.com/en/actions) — Run scrapers for free on schedule
+- [SQLite for Data Storage](https://www.sqlite.org/docs.html) — Lightweight database for scraped data
+- [Docker for Web Scraping](https://docs.docker.com/get-started/) — Containerize your scraping pipelines
 
 ## Related Awesome Lists
 
