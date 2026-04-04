@@ -397,6 +397,7 @@ Before scraping, know the rules:
 - [awesome-free-apis-2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 300+ free APIs, no key needed
 - [awesome-data-engineering-2026](https://github.com/spinov001-art/awesome-data-engineering-2026) — 150+ data engineering tools
 - [awesome-mcp-servers-2026](https://github.com/spinov001-art/awesome-mcp-servers-2026) — MCP servers for AI agents
+- [ai-market-research-reports](https://github.com/spinov001-art/ai-market-research-reports) — 500 free AI-generated market research reports
 
 - **[sqlite-vector-search-tutorial](https://github.com/spinov001-art/sqlite-vector-search-tutorial)** — Semantic search with SQLite + vectors (no server needed)
 - **[openalex-python-tutorial](https://github.com/spinov001-art/openalex-python-tutorial)** — Search 250M+ academic papers via API (no key needed)
