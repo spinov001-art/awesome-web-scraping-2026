@@ -248,9 +248,9 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 
 ## Free APIs (No Scraping Needed)
 
-- **[IP-API](https://spinov001-art.github.io)** — IP geolocation (country, city, ISP) — no key needed
-- **[Open-Meteo](https://spinov001-art.github.io)** — Weather forecasts and historical data — no key needed
-- **[ExchangeRate-API](https://spinov001-art.github.io)** — Currency conversion rates for 160+ currencies — no key needed
+- **[IP-API](https://ip-api.com/)** — IP geolocation (country, city, ISP) — no key needed
+- **[Open-Meteo](https://open-meteo.com/)** — Weather forecasts and historical data — no key needed
+- **[ExchangeRate-API](https://www.exchangerate-api.com/)** — Currency conversion rates for 160+ currencies — no key needed
 
 Why scrape when you can use official APIs? These require **no API key**:
 
@@ -258,7 +258,7 @@ Why scrape when you can use official APIs? These require **no API key**:
 |-----|------|-----------|
 | [Reddit JSON](https://www.reddit.com/r/python.json) | Posts, comments, subreddits | ~60/min |
 | [Hacker News](https://github.com/HackerNews/API) | Stories, comments, users | ~1/sec |
-| [YouTube Innertube](https://spinov001-art.github.io) | Comments, transcripts, channels | No hard limit |
+| [YouTube Innertube](https://github.com/nicehash/yt-dlp) | Comments, transcripts, channels | No hard limit |
 | [Wikipedia](https://en.wikipedia.org/api/rest_v1/) | Articles, summaries, media | 200/sec |
 | [arXiv](https://arxiv.org/help/api) | 2M+ research papers | 1/3sec |
 | [npm Registry](https://registry.npmjs.org/) | Package metadata | No hard limit |
@@ -376,26 +376,20 @@ Before scraping, know the rules:
 
 ## Tutorials & Articles
 
-- [I Built a Script That Finds Hidden APIs on Any Website](https://spinov001-art.github.io)
-- [API-First vs CSS Selectors — Why APIs Win](https://spinov001-art.github.io)
-- [YouTube's Secret Innertube API](https://spinov001-art.github.io)
-- [I Scraped 10,000 Reddit Posts — Best Strategy 2026](https://spinov001-art.github.io)
-- [Free 9-Tool SEO Audit Suite](https://spinov001-art.github.io)
 - [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)
-- [Scrapy vs Playwright vs Crawlee — Which to Use?](https://spinov001-art.github.io)
-- [The State of Web Scraping in 2026](https://spinov001-art.github.io)
-- [5 Free Web Scraping Tools That Replace Bright Data](https://spinov001-art.github.io)
-- [7 Python Libraries That Make Web Scraping Stupidly Easy](https://spinov001-art.github.io)
-- [5 Hidden APIs E-Commerce Sites Don't Want You to Know](https://spinov001-art.github.io)
-- [How I Run Web Scrapers for Free Using GitHub Actions](https://spinov001-art.github.io)
-- [The Perfect Docker Setup for Web Scraping](https://spinov001-art.github.io)
-- [Why I Store All My Scraped Data in SQLite](https://spinov001-art.github.io)
-- [10 Google Dorking Tricks That Will Change How You Research Online](https://spinov001-art.github.io)
-- [I Automated My Entire Job Search With Python](https://spinov001-art.github.io)
-- [Web Scraping Checklist — 21 Steps Before You Scrape](https://spinov001-art.github.io)
-- [I Built 77 Web Scrapers on Apify — Here's What Nobody Tells You](https://spinov001-art.github.io)
-- [Hetzner Gives You 4x More Server for the Same Price — And Has a Full API](https://spinov001-art.github.io) — Best servers for running scrapers
-- [Neon Has a Free Tier — Serverless Postgres With Branching](https://spinov001-art.github.io) — Store scraped data in free Postgres
+- [Scrapy Documentation](https://docs.scrapy.org/en/latest/)
+- [Playwright Web Scraping Guide](https://playwright.dev/docs/intro)
+- [Crawlee — Build Reliable Crawlers](https://crawlee.dev/)
+- [Real Python: Web Scraping with BeautifulSoup](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [ScrapingBee: Web Scraping Guide](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+
+> 📖 **Need a custom scraper or data pipeline?** [Email me](mailto:spinov001@gmail.com) — I build production-grade scrapers with anti-detection built in. Check my [ready-made scrapers on Apify](https://apify.com/knotless_cadence).
+- [GitHub Actions for Scheduled Scraping](https://docs.github.com/en/actions) — Run scrapers for free on a schedule
+- [Docker for Web Scraping](https://hub.docker.com/_/python) — Containerize your scrapers for consistency
+- [SQLite for Scraped Data](https://www.sqlite.org/docs.html) — Lightweight storage for scraped datasets
+- [Google Dorking Cheatsheet](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06) — Advanced search operators for research
+- [Hetzner Cloud](https://www.hetzner.com/cloud/) — Affordable servers for running scrapers at scale
+- [Neon Serverless Postgres](https://neon.tech/) — Free tier database for storing scraped data
 
 ## Related Awesome Lists
 
