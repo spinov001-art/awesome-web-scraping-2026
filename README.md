@@ -4,7 +4,7 @@
 >
 > **⭐ Star this repo** to keep it in your bookmarks — new tools added every week.
 >
-> 📖 **Need a custom scraper?** I build production-grade data pipelines — [Email me](mailto:spinov001@gmail.com) for a free quote.
+> 📖 **Need a custom scraper?** Get a production-grade scraper built in 48 hours — $250 flat rate. [Get a free quote →](mailto:spinov001@gmail.com)
 
 ---
 
@@ -415,9 +415,9 @@ I've built 78+ production scrapers. I can extract data from **any website** — 
 
 **What you get:** Working scraper in 24-48h, hosted on Apify (free tier available), with monitoring and auto-retry.
 
-📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a **free quote within 2 hours**. Reply before Friday for priority delivery slot.
+📧 **[Spinov001@gmail.com](mailto:Spinov001@gmail.com)** — describe your data need, get a **free quote within 2 hours**. First 3 clients this month get priority delivery.
 
-💳 **[Pay securely via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** — custom scraper from $20. Flat-rate pricing, no hourly surprises.
+💳 **[Pay securely via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** — custom scraper $250 flat rate. Delivered in 48 hours, no hourly surprises.
 
 🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
 
