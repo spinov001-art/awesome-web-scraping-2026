@@ -398,6 +398,7 @@ Before scraping, know the rules:
 - [awesome-free-apis-2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 300+ free APIs, no key needed
 - [awesome-data-engineering-2026](https://github.com/spinov001-art/awesome-data-engineering-2026) — 150+ data engineering tools
 - [awesome-mcp-servers-2026](https://github.com/spinov001-art/awesome-mcp-servers-2026) — MCP servers for AI agents
+- [ai-market-research-reports](https://github.com/spinov001-art/ai-market-research-reports) — 506 AI-generated market research reports (1,600+ clones)
 
 - **[sqlite-vector-search-tutorial](https://github.com/spinov001-art/sqlite-vector-search-tutorial)** — Semantic search with SQLite + vectors (no server needed)
 - **[openalex-python-tutorial](https://github.com/spinov001-art/openalex-python-tutorial)** — Search 250M+ academic papers via API (no key needed)
@@ -419,6 +420,8 @@ I've built 78+ production scrapers. I can extract data from **any website** — 
 💳 **[Pay securely via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** — custom scraper from $20. Flat-rate pricing, no hourly surprises.
 
 🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
+
+📊 **Need market research?** I deliver data-driven market analysis with verified sources — [View 506 sample reports →](https://github.com/spinov001-art/ai-market-research-reports) | Custom research from $200 — email spinov001@gmail.com
 
 ## License
 
