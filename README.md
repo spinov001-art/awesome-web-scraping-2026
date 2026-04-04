@@ -4,7 +4,7 @@
 >
 > **⭐ Star this repo** to keep it in your bookmarks — new tools added every week.
 >
-> 📖 **Need a custom scraper built in 48 hours?** I build production-grade data pipelines — fast, reliable, anti-detection built in. **First project gets a free consultation.** [Email me →](mailto:spinov001@gmail.com)
+> 📖 **Need a custom scraper?** I build production-grade data pipelines — [Email me](mailto:spinov001@gmail.com) for a free quote.
 
 ---
 
@@ -194,10 +194,6 @@
 | [ScraperAPI](https://www.scraperapi.com/) | 1000 free | API that handles proxies and CAPTCHAs. |
 | [Smartproxy](https://smartproxy.com/) | Trial | 65M+ residential proxies. |
 | [IPRoyal](https://iproyal.com/) | — | Budget residential proxies from $1.75/GB. |
-| [Proxy-Seller](https://proxy-seller.com/) | — | Residential, datacenter & ISP proxies. Geo-targeting 195+ countries. |
-| [NetNut](https://netnut.io/) | Trial | 85M+ residential IPs. Rotating and static options. |
-| [SOAX](https://soax.com/) | Trial | 190M+ residential and mobile proxies. 99.95% uptime. |
-| [Webshare](https://webshare.io/) | 10 free | Datacenter and residential proxies. API access. |
 
 ## CAPTCHA Solving
 
@@ -251,9 +247,9 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 
 ## Free APIs (No Scraping Needed)
 
-- **[IP-API](https://ip-api.com/)** — IP geolocation (country, city, ISP) — no key needed
-- **[Open-Meteo](https://open-meteo.com/)** — Weather forecasts and historical data — no key needed
-- **[ExchangeRate-API](https://www.exchangerate-api.com/)** — Currency conversion rates for 160+ currencies — no key needed
+- **[IP-API](https://spinov001-art.github.io)** — IP geolocation (country, city, ISP) — no key needed
+- **[Open-Meteo](https://spinov001-art.github.io)** — Weather forecasts and historical data — no key needed
+- **[ExchangeRate-API](https://spinov001-art.github.io)** — Currency conversion rates for 160+ currencies — no key needed
 
 Why scrape when you can use official APIs? These require **no API key**:
 
@@ -261,7 +257,7 @@ Why scrape when you can use official APIs? These require **no API key**:
 |-----|------|-----------|
 | [Reddit JSON](https://www.reddit.com/r/python.json) | Posts, comments, subreddits | ~60/min |
 | [Hacker News](https://github.com/HackerNews/API) | Stories, comments, users | ~1/sec |
-| [YouTube Innertube](https://github.com/spinov001-art/youtube-innertube-toolkit) | Comments, transcripts, channels | No hard limit |
+| [YouTube Innertube](https://spinov001-art.github.io) | Comments, transcripts, channels | No hard limit |
 | [Wikipedia](https://en.wikipedia.org/api/rest_v1/) | Articles, summaries, media | 200/sec |
 | [arXiv](https://arxiv.org/help/api) | 2M+ research papers | 1/3sec |
 | [npm Registry](https://registry.npmjs.org/) | Package metadata | No hard limit |
@@ -379,16 +375,26 @@ Before scraping, know the rules:
 
 ## Tutorials & Articles
 
+- [I Built a Script That Finds Hidden APIs on Any Website](https://spinov001-art.github.io)
+- [API-First vs CSS Selectors — Why APIs Win](https://spinov001-art.github.io)
+- [YouTube's Secret Innertube API](https://spinov001-art.github.io)
+- [I Scraped 10,000 Reddit Posts — Best Strategy 2026](https://spinov001-art.github.io)
+- [Free 9-Tool SEO Audit Suite](https://spinov001-art.github.io)
 - [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet)
-- [Scrapy Documentation](https://docs.scrapy.org/en/latest/) — The most popular Python scraping framework
-- [Playwright Web Scraping Guide](https://playwright.dev/docs/api/class-page) — Browser automation for dynamic sites
-- [Crawlee Getting Started](https://crawlee.dev/docs/introduction) — TypeScript/Node.js scraping framework
-- [Web Scraping with Python (Real Python)](https://realpython.com/python-web-scraping-practical-introduction/) — Comprehensive beginner guide
-- [Hacker News API](https://github.com/HackerNews/API) — Official Firebase-based API
-- [YouTube Innertube Toolkit](https://github.com/spinov001-art/youtube-innertube-toolkit) — Extract YouTube data without API keys
-- [GitHub Actions for Scrapers](https://docs.github.com/en/actions) — Run scrapers for free on schedule
-- [SQLite for Data Storage](https://www.sqlite.org/docs.html) — Lightweight database for scraped data
-- [Docker for Web Scraping](https://docs.docker.com/get-started/) — Containerize your scraping pipelines
+- [Scrapy vs Playwright vs Crawlee — Which to Use?](https://spinov001-art.github.io)
+- [The State of Web Scraping in 2026](https://spinov001-art.github.io)
+- [5 Free Web Scraping Tools That Replace Bright Data](https://spinov001-art.github.io)
+- [7 Python Libraries That Make Web Scraping Stupidly Easy](https://spinov001-art.github.io)
+- [5 Hidden APIs E-Commerce Sites Don't Want You to Know](https://spinov001-art.github.io)
+- [How I Run Web Scrapers for Free Using GitHub Actions](https://spinov001-art.github.io)
+- [The Perfect Docker Setup for Web Scraping](https://spinov001-art.github.io)
+- [Why I Store All My Scraped Data in SQLite](https://spinov001-art.github.io)
+- [10 Google Dorking Tricks That Will Change How You Research Online](https://spinov001-art.github.io)
+- [I Automated My Entire Job Search With Python](https://spinov001-art.github.io)
+- [Web Scraping Checklist — 21 Steps Before You Scrape](https://spinov001-art.github.io)
+- [I Built 77 Web Scrapers on Apify — Here's What Nobody Tells You](https://spinov001-art.github.io)
+- [Hetzner Gives You 4x More Server for the Same Price — And Has a Full API](https://spinov001-art.github.io) — Best servers for running scrapers
+- [Neon Has a Free Tier — Serverless Postgres With Branching](https://spinov001-art.github.io) — Store scraped data in free Postgres
 
 ## Related Awesome Lists
 
@@ -397,7 +403,6 @@ Before scraping, know the rules:
 - [awesome-free-apis-2026](https://github.com/spinov001-art/awesome-free-apis-2026) — 300+ free APIs, no key needed
 - [awesome-data-engineering-2026](https://github.com/spinov001-art/awesome-data-engineering-2026) — 150+ data engineering tools
 - [awesome-mcp-servers-2026](https://github.com/spinov001-art/awesome-mcp-servers-2026) — MCP servers for AI agents
-- [ai-market-research-reports](https://github.com/spinov001-art/ai-market-research-reports) — 500 free AI-generated market research reports
 
 - **[sqlite-vector-search-tutorial](https://github.com/spinov001-art/sqlite-vector-search-tutorial)** — Semantic search with SQLite + vectors (no server needed)
 - **[openalex-python-tutorial](https://github.com/spinov001-art/openalex-python-tutorial)** — Search 250M+ academic papers via API (no key needed)
