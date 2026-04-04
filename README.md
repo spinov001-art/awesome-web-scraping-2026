@@ -4,7 +4,7 @@
 >
 > **⭐ Star this repo** to keep it in your bookmarks — new tools added every week.
 >
-> 📖 **Need a custom scraper?** I build production-grade data pipelines — [Email me](mailto:spinov001@gmail.com) for a free quote.
+> 📖 **Need a custom scraper built in 48 hours?** I build production-grade data pipelines — fast, reliable, anti-detection built in. **First project gets a free consultation.** [Email me →](mailto:spinov001@gmail.com)
 
 ---
 
