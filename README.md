@@ -421,8 +421,6 @@ I've built 78+ production scrapers. I can extract data from **any website** — 
 
 🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
 
-📊 **Need market research?** I deliver data-driven market analysis with verified sources — [View 506 sample reports →](https://github.com/spinov001-art/ai-market-research-reports) | Custom research from $200 — email spinov001@gmail.com
-
 ## License
 
 MIT
