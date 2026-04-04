@@ -194,6 +194,7 @@
 | [ScraperAPI](https://www.scraperapi.com/) | 1000 free | API that handles proxies and CAPTCHAs. |
 | [Smartproxy](https://smartproxy.com/) | Trial | 65M+ residential proxies. |
 | [IPRoyal](https://iproyal.com/) | — | Budget residential proxies from $1.75/GB. |
+| [Proxy-Seller](https://proxy-seller.com/) | — | Datacenter & residential proxies in 220+ countries. IPv4/IPv6, SOCKS5. **Use code `SPINOV15` for 15% off.** |
 
 ## CAPTCHA Solving
 
