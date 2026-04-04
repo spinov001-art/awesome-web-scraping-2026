@@ -8,7 +8,7 @@
 
 ---
 
-> 🚀 **Skip the scraping** — I've built **88+ ready-made scrapers** for Reddit, HN, Google, LinkedIn, Amazon, and more.
+> 🚀 **Skip the scraping** — I've built **78+ ready-made scrapers** for Reddit, HN, Google, LinkedIn, Amazon, and more.
 > [Browse Apify actors →](https://apify.com/knotless_cadence) | Need something custom? Email **[spinov001@gmail.com](mailto:spinov001@gmail.com)**
 
 ---
@@ -415,7 +415,7 @@ Before scraping, know the rules:
 
 ## Need Custom Scraping?
 
-I've built 88+ production scrapers. I can extract data from **any website** — e-commerce, real estate, job boards, social media — with anti-detection, proxy rotation, and structured JSON/CSV output.
+I've built 78+ production scrapers. I can extract data from **any website** — e-commerce, real estate, job boards, social media — with anti-detection, proxy rotation, and structured JSON/CSV output.
 
 **What you get:** Working scraper in 24-48h, hosted on Apify (free tier available), with monitoring and auto-retry.
 
@@ -423,7 +423,7 @@ I've built 88+ production scrapers. I can extract data from **any website** — 
 
 💳 **[Pay securely via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** — custom scraper from $20. Flat-rate pricing, no hourly surprises.
 
-🔧 **[Browse 88+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
+🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, HN, Google, Amazon, and more. Deploy in 1 click, no coding required.
 
 ## License
 
