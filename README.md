@@ -107,6 +107,7 @@
 | [botasaurus](https://github.com/omkarcloud/botasaurus) | 4k+ | All-in-one scraping framework: browser, anti-detect, caching, parallel. |
 | [Playwright for Python](https://github.com/microsoft/playwright-python) | 12k+ | Official Playwright Python bindings. Cross-browser automation. |
 | [aiohttp](https://github.com/aio-libs/aiohttp) | 15k+ | Async HTTP client/server. Great for high-concurrency scraping. |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | 20k+ | Adaptive parsing — auto-relocates elements after page updates. 10x faster JSON. |
 
 ### JavaScript / TypeScript
 
