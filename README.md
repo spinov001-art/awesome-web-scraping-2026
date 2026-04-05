@@ -107,6 +107,7 @@
 | [botasaurus](https://github.com/omkarcloud/botasaurus) | 4k+ | All-in-one scraping framework: browser, anti-detect, caching, parallel. |
 | [Playwright for Python](https://github.com/microsoft/playwright-python) | 12k+ | Official Playwright Python bindings. Cross-browser automation. |
 | [aiohttp](https://github.com/aio-libs/aiohttp) | 15k+ | Async HTTP client/server. Great for high-concurrency scraping. |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | 20k+ | Adaptive parsing — auto-relocates elements after page updates. 10x faster JSON. |
 
 ### JavaScript / TypeScript
 
@@ -224,6 +225,7 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 | Tool | Stars | Description |
 |------|-------|-------------|
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 18k+ | Describe extraction in plain English. Uses LLMs to parse HTML. |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | 20k+ | Adaptive scraper that auto-relocates elements after page updates. Lightning-fast, memory efficient. |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | 35k+ | LLM-friendly crawler. Outputs clean markdown. Async, fast. |
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 25k+ | Turn any website into LLM-ready markdown. API + self-hosted. |
 | [Jina Reader](https://github.com/jina-ai/reader) | 8k+ | Convert URLs to LLM-friendly text. Free API: `r.jina.ai/URL`. |
