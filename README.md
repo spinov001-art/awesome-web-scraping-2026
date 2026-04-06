@@ -289,7 +289,7 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 | [Tech Stack Detector](https://apify.com/knotless_cadence/website-tech-stack-detector) | Headers+JS | 80+ technologies |
 | [Bluesky Scraper](https://apify.com/knotless_cadence/bluesky-scraper) | AT Protocol | Profiles and posts |
 
-> 🔍 **[All 77 scrapers →](https://apify.com/store?q=knotless_cadence)**
+> 🔍 **[All 78 scrapers →](https://apify.com/store?q=knotless_cadence)**
 
 ## Job Boards & Company Data
 
