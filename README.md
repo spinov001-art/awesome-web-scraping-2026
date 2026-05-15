@@ -243,6 +243,7 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 | [PriceAPI](https://www.priceapi.com/) | Multi | Product data from 1000+ retailers. Enterprise. |
 | [Diffbot](https://www.diffbot.com/) | Any | AI-powered product extraction. Free tier. |
 | [Amazon Scraper (Apify)](https://apify.com/junglee/Amazon-crawler) | Amazon | 750K+ users. Product data, reviews, prices. |
+| [Amazon Scraper API](https://amazonscraperapi.com) | Amazon | REST API for 20 marketplaces. Residential proxies. 1000 free requests. |
 | [Walmart Scraper (Apify)](https://apify.com/epctex/walmart-scraper) | Walmart | Products, prices, reviews. |
 
 > **Tip:** For price monitoring, combine scraping with cron jobs (GitHub Actions = free) and alert via email/Slack when prices change.
