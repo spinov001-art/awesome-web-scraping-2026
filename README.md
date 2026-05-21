@@ -211,6 +211,7 @@
 |----------|-----------|-------------|
 | [Apify](https://apify.com/) | $5/mo free | Run scrapers in cloud. 2000+ pre-built actors. Proxies included. |
 | [ScrapingBee](https://www.scrapingbee.com/) | 1000 free | API: send URL, get HTML. JS rendering, proxies. |
+| [SnapAPI](https://snap.michaelcli.com/) | 50 free/mo | Screenshot API + metadata extraction, text extraction, PDF generation. |
 | [Firecrawl](https://firecrawl.dev/) | 500 free | Turn websites into LLM-ready markdown. Great for AI. |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | Open source | LLM-friendly web crawler. Markdown extraction. |
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Open source | AI-powered scraping — just describe what you want. |
