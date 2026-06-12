@@ -288,6 +288,9 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 | [Email Extractor](https://apify.com/knotless_cadence/email-extractor-pro) | HTML | Emails, phones, socials |
 | [Tech Stack Detector](https://apify.com/knotless_cadence/website-tech-stack-detector) | Headers+JS | 80+ technologies |
 | [Bluesky Scraper](https://apify.com/knotless_cadence/bluesky-scraper) | AT Protocol | Profiles and posts |
+| [Email Scraper & Contact Finder](https://apify.com/renzomacar/website-contact-finder) | Smart crawl | Bulk emails, phones, socials from any site. No API key |
+| [Google Maps Email Extractor](https://apify.com/renzomacar/google-maps-businesses) | Maps + site crawl | Local business leads with email scraped from website. No Google API |
+| [Healthcare Provider Leads](https://apify.com/renzomacar/healthcare-provider-leads) | NPI Registry | Verified US doctors, dentists, clinics + enriched emails |
 
 > 🔍 **[All 78 scrapers →](https://apify.com/store?q=knotless_cadence)**
 
@@ -302,6 +305,8 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 | [Crunchbase API](https://data.crunchbase.com/) | Crunchbase | Startup data, funding, investors. Paid. |
 | [Hunter.io](https://hunter.io/) | Any domain | Find email addresses. 25 free/mo. |
 | [Apollo.io](https://www.apollo.io/) | Any company | Contact data, org charts. Free tier. |
+| [Email Scraper & Contact Finder (Apify)](https://apify.com/renzomacar/website-contact-finder) | Any website | Bulk emails, phones, socials. No API key. Pay per site. |
+| [Google Maps Email Extractor (Apify)](https://apify.com/renzomacar/google-maps-businesses) | Google Maps | Local business leads + email from site. No Google API key. |
 
 ## Government & Public Data
 
@@ -311,6 +316,7 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 | [EU Open Data](https://data.europa.eu/) | EU datasets | Free API |
 | [SEC EDGAR](https://www.sec.gov/edgar/) | Company filings | Free API |
 | [USPTO](https://developer.uspto.gov/) | Patent data | Free API |
+| [NPPES NPI Registry](https://npiregistry.cms.hhs.gov/api-page) | US healthcare providers | Free API. See [ready-made leads actor](https://apify.com/renzomacar/healthcare-provider-leads). |
 | [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API) | Geographic data | Free API |
 | [World Bank](https://data.worldbank.org/) | Economic indicators | Free API |
 | [FRED](https://fred.stlouisfed.org/docs/api/) | Economic data | Free API key |
