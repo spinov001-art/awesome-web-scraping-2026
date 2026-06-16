@@ -383,6 +383,7 @@ Before scraping, know the rules:
 - [Crawlee — Build Reliable Crawlers](https://crawlee.dev/)
 - [Real Python: Web Scraping with BeautifulSoup](https://realpython.com/beautiful-soup-web-scraper-python/)
 - [ScrapingBee: Web Scraping Guide](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- [Build a Price Monitoring Agent](https://superhighway.walls.sh/guides/price-monitoring-agent) — Python agent that scrapes product pages to Markdown, parses prices with an LLM, and alerts on drops via scheduled GitHub Actions
 
 > 📖 **Need a custom scraper or data pipeline?** [Email me](mailto:spinov001@gmail.com) — I build production-grade scrapers with anti-detection built in. Check my [ready-made scrapers on Apify](https://apify.com/knotless_cadence).
 - [GitHub Actions for Scheduled Scraping](https://docs.github.com/en/actions) — Run scrapers for free on a schedule
