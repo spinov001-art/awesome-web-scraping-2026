@@ -228,6 +228,7 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | 50k+ | LLM-friendly crawler. Outputs clean markdown. Async, fast. |
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 70k+ | Turn any website into LLM-ready markdown. API + self-hosted. |
 | [Jina Reader](https://github.com/jina-ai/reader) | 8k+ | Convert URLs to LLM-friendly text. Free API: `r.jina.ai/URL`. |
+| [Xquik X Twitter Scraper Skill](https://github.com/Xquik-dev/x-twitter-scraper) | 119+ | Agent skill for X data workflows, webhooks, MCP, and SDK setup. |
 | [Scrapfly](https://scrapfly.io/) | — | Web scraping API with AI extraction, anti-bot bypass. |
 | [Browserless](https://github.com/browserless/browserless) | 8k+ | Chrome as a service. Great for LLM agent workflows. |
 
