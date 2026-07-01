@@ -252,6 +252,7 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 - **[IP-API](https://ip-api.com/)** — IP geolocation (country, city, ISP) — no key needed
 - **[Open-Meteo](https://open-meteo.com/)** — Weather forecasts and historical data — no key needed
 - **[ExchangeRate-API](https://www.exchangerate-api.com/)** — Currency conversion rates for 160+ currencies — no key needed
+- [Geonode](https://geonode.com) - Residential and datacenter proxy service with REST API access for scraping workflows.
 
 Why scrape when you can use official APIs? These require **no API key**:
 
@@ -371,7 +372,6 @@ Before scraping, know the rules:
 **Rule of thumb:** If the data is publicly available, not behind a login, and you respect rate limits — you're probably fine. When in doubt, use the official API.
 
 **Resources:**
-- [Web Scraping Is Legal (EFF)](https://www.eff.org/deeplinks/2022/04/victory-ninth-circuit-confirms-scraping-publicly-available-data-not-cfaa-violation)
 - [GDPR and Web Scraping](https://gdpr.eu/)
 - [robots.txt Standard](https://www.robotstxt.org/)
 
