@@ -405,6 +405,7 @@ Before scraping, know the rules:
 - **[openalex-python-tutorial](https://github.com/spinov001-art/openalex-python-tutorial)** — Search 250M+ academic papers via API (no key needed)
 
 ---
+- [ScrapeHub](https://github.com/newchannelid432-code/scrapehub) — Star-ranked index of web scraping tools, crawlers, and HTTP clients
 
 ## Starter Template
 
