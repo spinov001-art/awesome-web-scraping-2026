@@ -288,6 +288,9 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 | [Email Extractor](https://apify.com/knotless_cadence/email-extractor-pro) | HTML | Emails, phones, socials |
 | [Tech Stack Detector](https://apify.com/knotless_cadence/website-tech-stack-detector) | Headers+JS | 80+ technologies |
 | [Bluesky Scraper](https://apify.com/knotless_cadence/bluesky-scraper) | AT Protocol | Profiles and posts |
+| [App Store Intelligence](https://apify.com/praise-most-high/app-store-intelligence) | iTunes Lookup API | iOS app price, rating, version, developer + change detection |
+| [Book & ISBN Catalog](https://apify.com/praise-most-high/book-isbn-catalog) | Open Library + Gutendex | ISBN/title/author to publisher, subjects, covers, public-domain links |
+| [Podcast Directory Monitor](https://apify.com/praise-most-high/podcast-directory-monitor) | iTunes Search + RSS | Podcast shows, canonical RSS feed URLs, new episodes |
 
 > 🔍 **[All 78 scrapers →](https://apify.com/store?q=knotless_cadence)**
 
