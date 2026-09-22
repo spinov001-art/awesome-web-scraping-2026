@@ -230,6 +230,7 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 | [Jina Reader](https://github.com/jina-ai/reader) | 8k+ | Convert URLs to LLM-friendly text. Free API: `r.jina.ai/URL`. |
 | [Scrapfly](https://scrapfly.io/) | — | Web scraping API with AI extraction, anti-bot bypass. |
 | [Browserless](https://github.com/browserless/browserless) | 8k+ | Chrome as a service. Great for LLM agent workflows. |
+| [Vend API Merchant](https://extract.paypercall.dev/.well-known/x402) | — | Pay-per-call web-data API + remote MCP server: URL→clean text, search, link check, domain intel, geoIP, YouTube transcript. No API key; free tier. |
 
 > **The trend:** In 2026, more developers use LLMs to extract data instead of writing CSS selectors. These tools bridge the gap.
 
