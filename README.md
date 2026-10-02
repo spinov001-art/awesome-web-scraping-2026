@@ -185,6 +185,7 @@
 | [playwright-stealth](https://github.com/nickvdp/playwright-stealth) | 1k+ | Stealth plugin for Playwright Python. Evade fingerprinting. |
 | [nodriver](https://github.com/nickvdp/nodriver) | 3k+ | Next-gen undetected browser automation. Successor to undetected-chromedriver. |
 | [Rebrowser](https://github.com/nickvdp/rebrowser-patches) | 1k+ | Patches for Playwright/Puppeteer to fix automation leaks. |
+| [gakido](https://github.com/HappyHackingSpace/gakido) - The hungry ghost, HTTP client focused on browser impersonation; reproduces real browser TLS (JA3/JA4) and HTTP/2 fingerprints via an optional Go + uTLS backend. 96 browser profiles, sync and async. 
 
 ## Proxy Services
 
