@@ -337,6 +337,7 @@ Tools to **test** your scraper against detection (for authorized testing only):
 | Tool | Description |
 |------|-------------|
 | [CreepJS](https://abrahamjuliot.github.io/creepjs/) | Browser fingerprint test — see what sites see about you. |
+| [EnvTrace](https://envtrace.net/) | Free no-signup pre-login environment audit: browser fingerprint, IP/proxy, WebRTC/DNS leaks, timezone/language consistency, automation traces → health score. |
 | [Fingerprint.com](https://fingerprint.com/) | Browser fingerprinting service. |
 | [BotD](https://github.com/nickvdp/botd) | 2k+ | Open-source bot detection library by Fingerprint. |
 | [Sannysoft Test](https://bot.sannysoft.com/) | Check what automation signals your browser leaks. |
