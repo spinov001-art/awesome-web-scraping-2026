@@ -229,6 +229,7 @@ Tools that use LLMs to extract data — describe what you want, get structured o
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 70k+ | Turn any website into LLM-ready markdown. API + self-hosted. |
 | [Jina Reader](https://github.com/jina-ai/reader) | 8k+ | Convert URLs to LLM-friendly text. Free API: `r.jina.ai/URL`. |
 | [Scrapfly](https://scrapfly.io/) | — | Web scraping API with AI extraction, anti-bot bypass. |
+| [FastAF](https://fastaf.co/compare/free-tier/?utm_source=awesome-web-scraping-2026&utm_medium=listing&utm_campaign=free-tier-lists) | — | Scraping, SERP and JSON Schema extract API for AI agents, with a monthly free tier. |
 | [Browserless](https://github.com/browserless/browserless) | 8k+ | Chrome as a service. Great for LLM agent workflows. |
 
 > **The trend:** In 2026, more developers use LLMs to extract data instead of writing CSS selectors. These tools bridge the gap.
