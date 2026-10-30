@@ -217,6 +217,7 @@
 | [Browserbase](https://www.browserbase.com/) | Free tier | Headless browser infrastructure. API-based. |
 | [Zyte (Scrapy Cloud)](https://www.zyte.com/) | Free tier | Cloud-based Scrapy deployment + smart proxy. By Scrapy creators. |
 | [Agenty](https://www.agenty.com/) | Free tier | No-code cloud scraping. Point-and-click extractors. |
+| [CurlShot](https://curlshot.com/) | 100 free/mo | Screenshot API: renders a URL or HTML in a real browser to PNG, PDF or video. |
 
 ## AI-Powered Scraping (2026 Trend)
 
