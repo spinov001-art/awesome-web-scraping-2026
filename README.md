@@ -278,6 +278,7 @@ Ready-to-use scrapers — no code required. Run on [Apify](https://apify.com/sto
 
 | Scraper | Method | Data |
 |---------|--------|------|
+| [Apple Podcasts Scraper](https://apify.com/taroyamada/apple-podcast-scraper) | Apple Podcasts | Search shows/episodes (name, artist, RSS, genres) to CSV/JSON. From $2.50/1k results. |
 | [Reddit Scraper](https://apify.com/knotless_cadence/reddit-scraper-pro) | JSON API | Posts, comments, scores |
 | [YouTube Comments](https://apify.com/knotless_cadence/youtube-comments-scraper) | Innertube | Comments without API key |
 | [YouTube Transcript](https://apify.com/knotless_cadence/youtube-transcript-scraper) | Captions XML | Subtitles and captions |
