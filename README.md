@@ -217,6 +217,7 @@
 | [Browserbase](https://www.browserbase.com/) | Free tier | Headless browser infrastructure. API-based. |
 | [Zyte (Scrapy Cloud)](https://www.zyte.com/) | Free tier | Cloud-based Scrapy deployment + smart proxy. By Scrapy creators. |
 | [Agenty](https://www.agenty.com/) | Free tier | No-code cloud scraping. Point-and-click extractors. |
+| [Website Contact Extractor](https://apify.com/hirewebscraper/website-contact-extractor) | Apify free credit | Apify Actor that finds emails, phones and social links on company websites. |
 
 ## AI-Powered Scraping (2026 Trend)
 
