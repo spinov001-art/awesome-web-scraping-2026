@@ -269,6 +269,7 @@ Why scrape when you can use official APIs? These require **no API key**:
 | [CoinGecko](https://www.coingecko.com/en/api) | Crypto prices | 30/min |
 | [Crossref](https://api.crossref.org/) | 150M+ academic papers | 50/sec |
 | [RDAP](https://rdap.org/) | Domain WHOIS data | Varies |
+| [Datacircle](https://datacircle.dev) | Prices and scores of every GTM API, no key | 60/min |
 
 > 📚 **[Full list: 300+ Free APIs →](https://github.com/spinov001-art/awesome-free-apis-2026)**
 
