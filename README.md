@@ -185,6 +185,7 @@
 | [playwright-stealth](https://github.com/nickvdp/playwright-stealth) | 1k+ | Stealth plugin for Playwright Python. Evade fingerprinting. |
 | [nodriver](https://github.com/nickvdp/nodriver) | 3k+ | Next-gen undetected browser automation. Successor to undetected-chromedriver. |
 | [Rebrowser](https://github.com/nickvdp/rebrowser-patches) | 1k+ | Patches for Playwright/Puppeteer to fix automation leaks. |
+| [Parse Everything](https://github.com/zenkdom/parse-everything-global) | 50+ | Anti-bot bypass engine with TLS impersonation, Playwright stealth, and residential proxy routing. |
 
 ## Proxy Services
 
