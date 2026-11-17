@@ -184,6 +184,7 @@
 | [Camoufox](https://github.com/daijro/camoufox) | 5k+ | Anti-detect Firefox browser for scraping. |
 | [playwright-stealth](https://github.com/nickvdp/playwright-stealth) | 1k+ | Stealth plugin for Playwright Python. Evade fingerprinting. |
 | [nodriver](https://github.com/nickvdp/nodriver) | 3k+ | Next-gen undetected browser automation. Successor to undetected-chromedriver. |
+| [browsersmith](https://github.com/jverneuer/browsersmith) | 0 | Pure-TypeScript HTTP client impersonating Chrome/Firefox/Safari TLS (JA3/JA4) and HTTP/2 fingerprints. |
 | [Rebrowser](https://github.com/nickvdp/rebrowser-patches) | 1k+ | Patches for Playwright/Puppeteer to fix automation leaks. |
 
 ## Proxy Services
